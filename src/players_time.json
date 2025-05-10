@@ -1,10 +1,7 @@
 [
     {
-        "bigChancesCreated": 8,
-        "assists": 9,
-        "accuratePasses": 3359,
-        "accuratePassesPercentage": 92.46,
-        "keyPasses": 50,
+        "minutesPlayed": 2938,
+        "appearances": 34,
         "rating": 8.01,
         "player": {
             "name": "Rodri",
@@ -55,11 +52,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 355,
-        "accuratePassesPercentage": 67.49,
-        "keyPasses": 4,
+        "minutesPlayed": 900,
+        "appearances": 10,
         "rating": 8,
         "player": {
             "name": "Arijanet Murić",
@@ -109,11 +103,8 @@
         }
     },
     {
-        "bigChancesCreated": 21,
-        "assists": 10,
-        "accuratePasses": 674,
-        "accuratePassesPercentage": 83.83,
-        "keyPasses": 59,
+        "minutesPlayed": 1235,
+        "appearances": 18,
         "rating": 7.93,
         "player": {
             "name": "Kevin De Bruyne",
@@ -164,11 +155,8 @@
         }
     },
     {
-        "bigChancesCreated": 10,
-        "assists": 8,
-        "accuratePasses": 1488,
-        "accuratePassesPercentage": 89.1,
-        "keyPasses": 73,
+        "minutesPlayed": 2873,
+        "appearances": 35,
         "rating": 7.79,
         "player": {
             "name": "Phil Foden",
@@ -219,11 +207,8 @@
         }
     },
     {
-        "bigChancesCreated": 21,
-        "assists": 8,
-        "accuratePasses": 1517,
-        "accuratePassesPercentage": 79.38,
-        "keyPasses": 116,
+        "minutesPlayed": 3119,
+        "appearances": 35,
         "rating": 7.75,
         "player": {
             "name": "Bruno Fernandes",
@@ -274,11 +259,8 @@
         }
     },
     {
-        "bigChancesCreated": 9,
-        "assists": 6,
-        "accuratePasses": 506,
-        "accuratePassesPercentage": 83.09,
-        "keyPasses": 36,
+        "minutesPlayed": 1277,
+        "appearances": 19,
         "rating": 7.74,
         "player": {
             "name": "Michael Olise",
@@ -328,11 +310,8 @@
         }
     },
     {
-        "bigChancesCreated": 15,
-        "assists": 9,
-        "accuratePasses": 1087,
-        "accuratePassesPercentage": 82.98,
-        "keyPasses": 91,
+        "minutesPlayed": 2933,
+        "appearances": 35,
         "rating": 7.72,
         "player": {
             "name": "Bukayo Saka",
@@ -379,11 +358,8 @@
         }
     },
     {
-        "bigChancesCreated": 17,
-        "assists": 11,
-        "accuratePasses": 1089,
-        "accuratePassesPercentage": 83.32,
-        "keyPasses": 72,
+        "minutesPlayed": 2624,
+        "appearances": 34,
         "rating": 7.7,
         "player": {
             "name": "Cole Palmer",
@@ -430,11 +406,8 @@
         }
     },
     {
-        "bigChancesCreated": 17,
-        "assists": 10,
-        "accuratePasses": 1649,
-        "accuratePassesPercentage": 86.79,
-        "keyPasses": 102,
+        "minutesPlayed": 3098,
+        "appearances": 35,
         "rating": 7.67,
         "player": {
             "name": "Martin Ødegaard",
@@ -481,11 +454,8 @@
         }
     },
     {
-        "bigChancesCreated": 11,
-        "assists": 9,
-        "accuratePasses": 1177,
-        "accuratePassesPercentage": 87.44,
-        "keyPasses": 68,
+        "minutesPlayed": 2152,
+        "appearances": 28,
         "rating": 7.59,
         "player": {
             "name": "James Maddison",
@@ -536,11 +506,8 @@
         }
     },
     {
-        "bigChancesCreated": 22,
-        "assists": 10,
-        "accuratePasses": 708,
-        "accuratePassesPercentage": 75.72,
-        "keyPasses": 68,
+        "minutesPlayed": 2535,
+        "appearances": 32,
         "rating": 7.58,
         "player": {
             "name": "Mohamed Salah",
@@ -587,11 +554,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 4,
-        "accuratePasses": 662,
-        "accuratePassesPercentage": 83.69,
-        "keyPasses": 54,
+        "minutesPlayed": 2065,
+        "appearances": 27,
         "rating": 7.58,
         "player": {
             "name": "Eberechi Eze",
@@ -641,11 +605,8 @@
         }
     },
     {
-        "bigChancesCreated": 11,
-        "assists": 10,
-        "accuratePasses": 2639,
-        "accuratePassesPercentage": 90.16,
-        "keyPasses": 104,
+        "minutesPlayed": 3114,
+        "appearances": 36,
         "rating": 7.55,
         "player": {
             "name": "Pascal Groß",
@@ -699,11 +660,8 @@
         }
     },
     {
-        "bigChancesCreated": 20,
-        "assists": 10,
-        "accuratePasses": 872,
-        "accuratePassesPercentage": 85.07,
-        "keyPasses": 69,
+        "minutesPlayed": 2946,
+        "appearances": 35,
         "rating": 7.55,
         "player": {
             "name": "Heung-min Son",
@@ -754,11 +712,8 @@
         }
     },
     {
-        "bigChancesCreated": 13,
-        "assists": 9,
-        "accuratePasses": 1631,
-        "accuratePassesPercentage": 89.42,
-        "keyPasses": 64,
+        "minutesPlayed": 2581,
+        "appearances": 33,
         "rating": 7.53,
         "player": {
             "name": "Bernardo Silva",
@@ -809,11 +764,8 @@
         }
     },
     {
-        "bigChancesCreated": 12,
-        "assists": 8,
-        "accuratePasses": 1924,
-        "accuratePassesPercentage": 84.98,
-        "keyPasses": 62,
+        "minutesPlayed": 3268,
+        "appearances": 37,
         "rating": 7.49,
         "player": {
             "name": "Bruno Guimarães",
@@ -864,11 +816,8 @@
         }
     },
     {
-        "bigChancesCreated": 10,
-        "assists": 2,
-        "accuratePasses": 1091,
-        "accuratePassesPercentage": 87.7,
-        "keyPasses": 65,
+        "minutesPlayed": 1691,
+        "appearances": 23,
         "rating": 7.43,
         "player": {
             "name": "Andrew Robertson",
@@ -915,11 +864,8 @@
         }
     },
     {
-        "bigChancesCreated": 9,
-        "assists": 8,
-        "accuratePasses": 2019,
-        "accuratePassesPercentage": 90.66,
-        "keyPasses": 47,
+        "minutesPlayed": 3230,
+        "appearances": 38,
         "rating": 7.43,
         "player": {
             "name": "Declan Rice",
@@ -966,11 +912,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 8,
-        "accuratePasses": 676,
-        "accuratePassesPercentage": 86.01,
-        "keyPasses": 45,
+        "minutesPlayed": 1599,
+        "appearances": 29,
         "rating": 7.42,
         "player": {
             "name": "Jérémy Doku",
@@ -1021,11 +964,8 @@
         }
     },
     {
-        "bigChancesCreated": 16,
-        "assists": 10,
-        "accuratePasses": 754,
-        "accuratePassesPercentage": 81.78,
-        "keyPasses": 57,
+        "minutesPlayed": 2899,
+        "appearances": 35,
         "rating": 7.41,
         "player": {
             "name": "Anthony Gordon",
@@ -1076,11 +1016,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 1529,
-        "accuratePassesPercentage": 88.28,
-        "keyPasses": 18,
+        "minutesPlayed": 2328,
+        "appearances": 28,
         "rating": 7.4,
         "player": {
             "name": "Joško Gvardiol",
@@ -1131,11 +1068,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 47,
-        "accuratePassesPercentage": 71.21,
-        "keyPasses": 0,
+        "minutesPlayed": 135,
+        "appearances": 2,
         "rating": 7.4,
         "player": {
             "name": "Thomas Strakosha",
@@ -1185,11 +1119,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 2,
-        "accuratePasses": 2627,
-        "accuratePassesPercentage": 91.47,
-        "keyPasses": 11,
+        "minutesPlayed": 3178,
+        "appearances": 36,
         "rating": 7.38,
         "player": {
             "name": "Virgil van Dijk",
@@ -1236,11 +1167,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 180,
-        "accuratePassesPercentage": 81.45,
-        "keyPasses": 7,
+        "minutesPlayed": 558,
+        "appearances": 7,
         "rating": 7.37,
         "player": {
             "name": "Solly March",
@@ -1291,11 +1219,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 5,
-        "accuratePasses": 295,
-        "accuratePassesPercentage": 77.43,
-        "keyPasses": 29,
+        "minutesPlayed": 2556,
+        "appearances": 31,
         "rating": 7.36,
         "player": {
             "name": "Erling Haaland",
@@ -1346,11 +1271,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 426,
-        "accuratePassesPercentage": 59.33,
-        "keyPasses": 0,
+        "minutesPlayed": 2699,
+        "appearances": 31,
         "rating": 7.36,
         "player": {
             "name": "Alphonse Aréola",
@@ -1401,11 +1323,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 9,
-        "accuratePasses": 976,
-        "accuratePassesPercentage": 87.93,
-        "keyPasses": 67,
+        "minutesPlayed": 2657,
+        "appearances": 36,
         "rating": 7.36,
         "player": {
             "name": "Julián Álvarez",
@@ -1456,11 +1375,8 @@
         }
     },
     {
-        "bigChancesCreated": 13,
-        "assists": 7,
-        "accuratePasses": 1485,
-        "accuratePassesPercentage": 79.62,
-        "keyPasses": 51,
+        "minutesPlayed": 3092,
+        "appearances": 35,
         "rating": 7.34,
         "player": {
             "name": "Pedro Porro",
@@ -1511,11 +1427,8 @@
         }
     },
     {
-        "bigChancesCreated": 11,
-        "assists": 13,
-        "accuratePasses": 453,
-        "accuratePassesPercentage": 76.78,
-        "keyPasses": 45,
+        "minutesPlayed": 3221,
+        "appearances": 37,
         "rating": 7.32,
         "player": {
             "name": "Ollie Watkins",
@@ -1562,11 +1475,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 3,
-        "accuratePasses": 351,
-        "accuratePassesPercentage": 80.32,
-        "keyPasses": 15,
+        "minutesPlayed": 761,
+        "appearances": 11,
         "rating": 7.32,
         "player": {
             "name": "Conor Bradley",
@@ -1613,11 +1523,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 1,
-        "accuratePasses": 1186,
-        "accuratePassesPercentage": 77.77,
-        "keyPasses": 23,
+        "minutesPlayed": 3419,
+        "appearances": 38,
         "rating": 7.32,
         "player": {
             "name": "James Tarkowski",
@@ -1664,11 +1571,8 @@
         }
     },
     {
-        "bigChancesCreated": 11,
-        "assists": 7,
-        "accuratePasses": 1766,
-        "accuratePassesPercentage": 91.5,
-        "keyPasses": 53,
+        "minutesPlayed": 3135,
+        "appearances": 37,
         "rating": 7.31,
         "player": {
             "name": "Conor Gallagher",
@@ -1718,11 +1622,8 @@
         }
     },
     {
-        "bigChancesCreated": 13,
-        "assists": 10,
-        "accuratePasses": 1366,
-        "accuratePassesPercentage": 79.7,
-        "keyPasses": 65,
+        "minutesPlayed": 2240,
+        "appearances": 28,
         "rating": 7.31,
         "player": {
             "name": "Kieran Trippier",
@@ -1773,11 +1674,8 @@
         }
     },
     {
-        "bigChancesCreated": 17,
-        "assists": 4,
-        "accuratePasses": 1341,
-        "accuratePassesPercentage": 79.58,
-        "keyPasses": 64,
+        "minutesPlayed": 2159,
+        "appearances": 28,
         "rating": 7.31,
         "player": {
             "name": "Trent Alexander-Arnold",
@@ -1824,11 +1722,8 @@
         }
     },
     {
-        "bigChancesCreated": 12,
-        "assists": 7,
-        "accuratePasses": 1319,
-        "accuratePassesPercentage": 89.61,
-        "keyPasses": 64,
+        "minutesPlayed": 3019,
+        "appearances": 37,
         "rating": 7.29,
         "player": {
             "name": "James Ward-Prowse",
@@ -1879,11 +1774,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 6,
-        "accuratePasses": 470,
-        "accuratePassesPercentage": 72.31,
-        "keyPasses": 32,
+        "minutesPlayed": 1959,
+        "appearances": 25,
         "rating": 7.27,
         "player": {
             "name": "Bryan Mbeumo",
@@ -1933,11 +1825,8 @@
         }
     },
     {
-        "bigChancesCreated": 10,
-        "assists": 5,
-        "accuratePasses": 1763,
-        "accuratePassesPercentage": 89.36,
-        "keyPasses": 53,
+        "minutesPlayed": 3001,
+        "appearances": 35,
         "rating": 7.27,
         "player": {
             "name": "Douglas Luiz",
@@ -1984,11 +1873,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 3,
-        "accuratePasses": 286,
-        "accuratePassesPercentage": 74.48,
-        "keyPasses": 22,
+        "minutesPlayed": 1156,
+        "appearances": 21,
         "rating": 7.26,
         "player": {
             "name": "Diogo Jota",
@@ -2035,11 +1921,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 2,
-        "accuratePasses": 77,
-        "accuratePassesPercentage": 90.59,
-        "keyPasses": 12,
+        "minutesPlayed": 208,
+        "appearances": 5,
         "rating": 7.26,
         "player": {
             "name": "Manor Solomon",
@@ -2090,11 +1973,8 @@
         }
     },
     {
-        "bigChancesCreated": 16,
-        "assists": 10,
-        "accuratePasses": 986,
-        "accuratePassesPercentage": 76.91,
-        "keyPasses": 75,
+        "minutesPlayed": 3160,
+        "appearances": 37,
         "rating": 7.26,
         "player": {
             "name": "Morgan Gibbs-White",
@@ -2145,11 +2025,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 7,
-        "accuratePasses": 641,
-        "accuratePassesPercentage": 81.55,
-        "keyPasses": 28,
+        "minutesPlayed": 2453,
+        "appearances": 32,
         "rating": 7.26,
         "player": {
             "name": "Matheus Cunha",
@@ -2200,11 +2077,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 4,
-        "accuratePasses": 1657,
-        "accuratePassesPercentage": 86.71,
-        "keyPasses": 39,
+        "minutesPlayed": 2995,
+        "appearances": 37,
         "rating": 7.26,
         "player": {
             "name": "Ben White",
@@ -2251,11 +2125,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 2376,
-        "accuratePassesPercentage": 91.88,
-        "keyPasses": 7,
+        "minutesPlayed": 2792,
+        "appearances": 33,
         "rating": 7.25,
         "player": {
             "name": "Cristian Romero",
@@ -2306,11 +2177,8 @@
         }
     },
     {
-        "bigChancesCreated": 17,
-        "assists": 6,
-        "accuratePasses": 784,
-        "accuratePassesPercentage": 78.32,
-        "keyPasses": 70,
+        "minutesPlayed": 2897,
+        "appearances": 35,
         "rating": 7.24,
         "player": {
             "name": "Dwight McNeil",
@@ -2357,11 +2225,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 5,
-        "accuratePasses": 1692,
-        "accuratePassesPercentage": 87.8,
-        "keyPasses": 47,
+        "minutesPlayed": 2609,
+        "appearances": 33,
         "rating": 7.24,
         "player": {
             "name": "Alexis Mac Allister",
@@ -2408,11 +2273,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 2153,
-        "accuratePassesPercentage": 93.77,
-        "keyPasses": 13,
+        "minutesPlayed": 2514,
+        "appearances": 30,
         "rating": 7.24,
         "player": {
             "name": "Manuel Akanji",
@@ -2463,11 +2325,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 484,
-        "accuratePassesPercentage": 87.68,
-        "keyPasses": 27,
+        "minutesPlayed": 1022,
+        "appearances": 20,
         "rating": 7.24,
         "player": {
             "name": "Jack Grealish",
@@ -2518,11 +2377,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 0,
-        "accuratePasses": 1910,
-        "accuratePassesPercentage": 89.09,
-        "keyPasses": 3,
+        "minutesPlayed": 3053,
+        "appearances": 36,
         "rating": 7.23,
         "player": {
             "name": "Gabriel Magalhães",
@@ -2569,11 +2425,8 @@
         }
     },
     {
-        "bigChancesCreated": 8,
-        "assists": 7,
-        "accuratePasses": 756,
-        "accuratePassesPercentage": 81.12,
-        "keyPasses": 46,
+        "minutesPlayed": 2639,
+        "appearances": 37,
         "rating": 7.23,
         "player": {
             "name": "Kai Havertz",
@@ -2620,11 +2473,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 966,
-        "accuratePassesPercentage": 70.36,
-        "keyPasses": 3,
+        "minutesPlayed": 3420,
+        "appearances": 38,
         "rating": 7.21,
         "player": {
             "name": "André Onana",
@@ -2675,11 +2525,8 @@
         }
     },
     {
-        "bigChancesCreated": 9,
-        "assists": 3,
-        "accuratePasses": 640,
-        "accuratePassesPercentage": 82.69,
-        "keyPasses": 38,
+        "minutesPlayed": 2043,
+        "appearances": 31,
         "rating": 7.21,
         "player": {
             "name": "João Pedro",
@@ -2730,11 +2577,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 849,
-        "accuratePassesPercentage": 59.41,
-        "keyPasses": 4,
+        "minutesPlayed": 3420,
+        "appearances": 38,
         "rating": 7.21,
         "player": {
             "name": "Jordan Pickford",
@@ -2781,11 +2625,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 2454,
-        "accuratePassesPercentage": 94.1,
-        "keyPasses": 7,
+        "minutesPlayed": 2557,
+        "appearances": 30,
         "rating": 7.21,
         "player": {
             "name": "Rúben Dias",
@@ -2836,11 +2677,8 @@
         }
     },
     {
-        "bigChancesCreated": 12,
-        "assists": 6,
-        "accuratePasses": 1061,
-        "accuratePassesPercentage": 75.19,
-        "keyPasses": 44,
+        "minutesPlayed": 2634,
+        "appearances": 31,
         "rating": 7.21,
         "player": {
             "name": "Lucas Paquetá",
@@ -2891,11 +2729,8 @@
         }
     },
     {
-        "bigChancesCreated": 10,
-        "assists": 7,
-        "accuratePasses": 310,
-        "accuratePassesPercentage": 73.63,
-        "keyPasses": 31,
+        "minutesPlayed": 1200,
+        "appearances": 21,
         "rating": 7.21,
         "player": {
             "name": "Jacob Murphy",
@@ -2946,11 +2781,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 2,
-        "accuratePasses": 1560,
-        "accuratePassesPercentage": 86.91,
-        "keyPasses": 32,
+        "minutesPlayed": 2214,
+        "appearances": 28,
         "rating": 7.2,
         "player": {
             "name": "Enzo Fernández",
@@ -2997,11 +2829,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 379,
-        "accuratePassesPercentage": 74.9,
-        "keyPasses": 1,
+        "minutesPlayed": 1994,
+        "appearances": 23,
         "rating": 7.2,
         "player": {
             "name": "Martin Dúbravka",
@@ -3052,11 +2881,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 9,
-        "accuratePasses": 491,
-        "accuratePassesPercentage": 83.36,
-        "keyPasses": 38,
+        "minutesPlayed": 1518,
+        "appearances": 20,
         "rating": 7.2,
         "player": {
             "name": "Pedro Neto",
@@ -3107,11 +2933,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 5,
-        "accuratePasses": 869,
-        "accuratePassesPercentage": 85.28,
-        "keyPasses": 65,
+        "minutesPlayed": 2664,
+        "appearances": 37,
         "rating": 7.19,
         "player": {
             "name": "Luis Díaz",
@@ -3158,11 +2981,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 2,
-        "accuratePasses": 1261,
-        "accuratePassesPercentage": 89.37,
-        "keyPasses": 30,
+        "minutesPlayed": 1730,
+        "appearances": 27,
         "rating": 7.18,
         "player": {
             "name": "Oleksandr Zinchenko",
@@ -3209,11 +3029,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 54,
-        "accuratePassesPercentage": 51.43,
-        "keyPasses": 0,
+        "minutesPlayed": 360,
+        "appearances": 4,
         "rating": 7.18,
         "player": {
             "name": "Mark Travers",
@@ -3263,11 +3080,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 4,
-        "accuratePasses": 498,
-        "accuratePassesPercentage": 83.42,
-        "keyPasses": 25,
+        "minutesPlayed": 1488,
+        "appearances": 19,
         "rating": 7.17,
         "player": {
             "name": "Kaoru Mitoma",
@@ -3318,11 +3132,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 1162,
-        "accuratePassesPercentage": 82.65,
-        "keyPasses": 16,
+        "minutesPlayed": 1985,
+        "appearances": 25,
         "rating": 7.17,
         "player": {
             "name": "Casemiro",
@@ -3373,11 +3184,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 2,
-        "accuratePasses": 379,
-        "accuratePassesPercentage": 79.96,
-        "keyPasses": 27,
+        "minutesPlayed": 2265,
+        "appearances": 30,
         "rating": 7.17,
         "player": {
             "name": "Alexander Isak",
@@ -3428,11 +3236,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 4,
-        "accuratePasses": 1191,
-        "accuratePassesPercentage": 84.53,
-        "keyPasses": 46,
+        "minutesPlayed": 2622,
+        "appearances": 32,
         "rating": 7.17,
         "player": {
             "name": "Ross Barkley",
@@ -3486,11 +3291,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 5,
-        "accuratePasses": 397,
-        "accuratePassesPercentage": 81.02,
-        "keyPasses": 29,
+        "minutesPlayed": 1499,
+        "appearances": 27,
         "rating": 7.17,
         "player": {
             "name": "Gabriel Jesus",
@@ -3537,11 +3339,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 2971,
-        "accuratePassesPercentage": 92.5,
-        "keyPasses": 13,
+        "minutesPlayed": 2872,
+        "appearances": 33,
         "rating": 7.16,
         "player": {
             "name": "Lewis Dunk",
@@ -3592,11 +3391,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 4,
-        "accuratePasses": 448,
-        "accuratePassesPercentage": 79.15,
-        "keyPasses": 21,
+        "minutesPlayed": 1439,
+        "appearances": 16,
         "rating": 7.16,
         "player": {
             "name": "Daniel Muñoz",
@@ -3643,11 +3439,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 2,
-        "accuratePasses": 1221,
-        "accuratePassesPercentage": 87.28,
-        "keyPasses": 56,
+        "minutesPlayed": 2123,
+        "appearances": 33,
         "rating": 7.15,
         "player": {
             "name": "Dominik Szoboszlai",
@@ -3694,11 +3487,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 4,
-        "accuratePasses": 1930,
-        "accuratePassesPercentage": 90.36,
-        "keyPasses": 25,
+        "minutesPlayed": 2767,
+        "appearances": 32,
         "rating": 7.15,
         "player": {
             "name": "Kyle Walker",
@@ -3752,11 +3542,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 1097,
-        "accuratePassesPercentage": 83.04,
-        "keyPasses": 13,
+        "minutesPlayed": 2709,
+        "appearances": 33,
         "rating": 7.14,
         "player": {
             "name": "João Palhinha",
@@ -3806,11 +3593,8 @@
         }
     },
     {
-        "bigChancesCreated": 12,
-        "assists": 6,
-        "accuratePasses": 467,
-        "accuratePassesPercentage": 75.08,
-        "keyPasses": 32,
+        "minutesPlayed": 3020,
+        "appearances": 34,
         "rating": 7.14,
         "player": {
             "name": "Jarrod Bowen",
@@ -3861,11 +3645,8 @@
         }
     },
     {
-        "bigChancesCreated": 12,
-        "assists": 9,
-        "accuratePasses": 548,
-        "accuratePassesPercentage": 78.17,
-        "keyPasses": 52,
+        "minutesPlayed": 2072,
+        "appearances": 35,
         "rating": 7.13,
         "player": {
             "name": "Leon Bailey",
@@ -3912,11 +3693,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 1103,
-        "accuratePassesPercentage": 86.71,
-        "keyPasses": 9,
+        "minutesPlayed": 2211,
+        "appearances": 25,
         "rating": 7.13,
         "player": {
             "name": "Craig Dawson",
@@ -3967,11 +3745,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 914,
-        "accuratePassesPercentage": 83.39,
-        "keyPasses": 6,
+        "minutesPlayed": 1667,
+        "appearances": 22,
         "rating": 7.13,
         "player": {
             "name": "Harry Maguire",
@@ -4022,11 +3797,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 2219,
-        "accuratePassesPercentage": 92.5,
-        "keyPasses": 10,
+        "minutesPlayed": 2368,
+        "appearances": 28,
         "rating": 7.13,
         "player": {
             "name": "Jan Paul van Hecke",
@@ -4077,11 +3849,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 6,
-        "accuratePasses": 793,
-        "accuratePassesPercentage": 87.72,
-        "keyPasses": 37,
+        "minutesPlayed": 1367,
+        "appearances": 34,
         "rating": 7.13,
         "player": {
             "name": "Harvey Elliott",
@@ -4128,11 +3897,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 2,
-        "accuratePasses": 905,
-        "accuratePassesPercentage": 85.46,
-        "keyPasses": 45,
+        "minutesPlayed": 2054,
+        "appearances": 31,
         "rating": 7.13,
         "player": {
             "name": "Willian",
@@ -4182,11 +3948,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 136,
-        "accuratePassesPercentage": 62.1,
-        "keyPasses": 18,
+        "minutesPlayed": 1607,
+        "appearances": 26,
         "rating": 7.13,
         "player": {
             "name": "Rodrigo Muniz",
@@ -4236,11 +3999,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 3,
-        "accuratePasses": 1904,
-        "accuratePassesPercentage": 90.8,
-        "keyPasses": 23,
+        "minutesPlayed": 2872,
+        "appearances": 35,
         "rating": 7.13,
         "player": {
             "name": "Moisés Caicedo",
@@ -4287,11 +4047,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 148,
-        "accuratePassesPercentage": 88.1,
-        "keyPasses": 10,
+        "minutesPlayed": 303,
+        "appearances": 14,
         "rating": 7.12,
         "player": {
             "name": "Oscar Bobb",
@@ -4342,11 +4099,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 636,
-        "accuratePassesPercentage": 85.6,
-        "keyPasses": 0,
+        "minutesPlayed": 1890,
+        "appearances": 21,
         "rating": 7.12,
         "player": {
             "name": "Bart Verbruggen",
@@ -4397,11 +4151,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 535,
-        "accuratePassesPercentage": 59.18,
-        "keyPasses": 1,
+        "minutesPlayed": 3038,
+        "appearances": 35,
         "rating": 7.12,
         "player": {
             "name": "José Sá",
@@ -4452,11 +4203,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 5,
-        "accuratePasses": 424,
-        "accuratePassesPercentage": 79.25,
-        "keyPasses": 25,
+        "minutesPlayed": 1651,
+        "appearances": 35,
         "rating": 7.11,
         "player": {
             "name": "Cody Gakpo",
@@ -4503,11 +4251,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 3,
-        "accuratePasses": 1250,
-        "accuratePassesPercentage": 83.78,
-        "keyPasses": 38,
+        "minutesPlayed": 3174,
+        "appearances": 36,
         "rating": 7.11,
         "player": {
             "name": "Diogo Dalot",
@@ -4558,11 +4303,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 3,
-        "accuratePasses": 1162,
-        "accuratePassesPercentage": 86.65,
-        "keyPasses": 26,
+        "minutesPlayed": 2068,
+        "appearances": 25,
         "rating": 7.11,
         "player": {
             "name": "Josh Cullen",
@@ -4609,11 +4351,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 414,
-        "accuratePassesPercentage": 79.62,
-        "keyPasses": 0,
+        "minutesPlayed": 1434,
+        "appearances": 16,
         "rating": 7.11,
         "player": {
             "name": "Robert Sánchez",
@@ -4660,11 +4399,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 3,
-        "accuratePasses": 660,
-        "accuratePassesPercentage": 89.19,
-        "keyPasses": 9,
+        "minutesPlayed": 1308,
+        "appearances": 17,
         "rating": 7.11,
         "player": {
             "name": "Albert Sambi Lokonga",
@@ -4718,11 +4454,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 4,
-        "accuratePasses": 686,
-        "accuratePassesPercentage": 85.01,
-        "keyPasses": 46,
+        "minutesPlayed": 2029,
+        "appearances": 35,
         "rating": 7.11,
         "player": {
             "name": "Gabriel Martinelli",
@@ -4769,11 +4502,8 @@
         }
     },
     {
-        "bigChancesCreated": 10,
-        "assists": 4,
-        "accuratePasses": 945,
-        "accuratePassesPercentage": 82.75,
-        "keyPasses": 45,
+        "minutesPlayed": 3009,
+        "appearances": 35,
         "rating": 7.11,
         "player": {
             "name": "John McGinn",
@@ -4820,11 +4550,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 543,
-        "accuratePassesPercentage": 60.2,
-        "keyPasses": 0,
+        "minutesPlayed": 2880,
+        "appearances": 32,
         "rating": 7.1,
         "player": {
             "name": "Neto",
@@ -4874,11 +4601,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1035,
-        "accuratePassesPercentage": 81.37,
-        "keyPasses": 2,
+        "minutesPlayed": 3015,
+        "appearances": 34,
         "rating": 7.1,
         "player": {
             "name": "Emiliano Martínez",
@@ -4925,11 +4649,8 @@
         }
     },
     {
-        "bigChancesCreated": 14,
-        "assists": 3,
-        "accuratePasses": 927,
-        "accuratePassesPercentage": 81.89,
-        "keyPasses": 66,
+        "minutesPlayed": 2763,
+        "appearances": 36,
         "rating": 7.1,
         "player": {
             "name": "Dejan Kulusevski",
@@ -4980,11 +4701,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 6,
-        "accuratePasses": 653,
-        "accuratePassesPercentage": 84.48,
-        "keyPasses": 28,
+        "minutesPlayed": 2483,
+        "appearances": 33,
         "rating": 7.1,
         "player": {
             "name": "Mohammed Kudus",
@@ -5035,11 +4753,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 2,
-        "accuratePasses": 1643,
-        "accuratePassesPercentage": 92.82,
-        "keyPasses": 10,
+        "minutesPlayed": 2052,
+        "appearances": 29,
         "rating": 7.1,
         "player": {
             "name": "Nathan Aké",
@@ -5090,11 +4805,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 4,
-        "accuratePassesPercentage": 50,
-        "keyPasses": 0,
+        "minutesPlayed": 32,
+        "appearances": 1,
         "rating": 7.1,
         "player": {
             "name": "Aleksandar Mitrović",
@@ -5144,11 +4856,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 146,
-        "accuratePassesPercentage": 79.35,
-        "keyPasses": 0,
+        "minutesPlayed": 405,
+        "appearances": 5,
         "rating": 7.1,
         "player": {
             "name": "Robin Olsen",
@@ -5195,11 +4904,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1086,
-        "accuratePassesPercentage": 77.24,
-        "keyPasses": 0,
+        "minutesPlayed": 3420,
+        "appearances": 38,
         "rating": 7.1,
         "player": {
             "name": "Bernd Leno",
@@ -5249,11 +4955,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 2,
-        "accuratePasses": 920,
-        "accuratePassesPercentage": 82.81,
-        "keyPasses": 44,
+        "minutesPlayed": 3005,
+        "appearances": 37,
         "rating": 7.09,
         "player": {
             "name": "James Garner",
@@ -5300,11 +5003,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 1003,
-        "accuratePassesPercentage": 69.36,
-        "keyPasses": 4,
+        "minutesPlayed": 3285,
+        "appearances": 37,
         "rating": 7.09,
         "player": {
             "name": "Mark Flekken",
@@ -5351,11 +5051,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 3,
-        "accuratePasses": 322,
-        "accuratePassesPercentage": 73.18,
-        "keyPasses": 30,
+        "minutesPlayed": 2508,
+        "appearances": 34,
         "rating": 7.09,
         "player": {
             "name": "Yoane Wissa",
@@ -5402,11 +5099,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 3,
-        "accuratePasses": 456,
-        "accuratePassesPercentage": 81.14,
-        "keyPasses": 21,
+        "minutesPlayed": 1305,
+        "appearances": 16,
         "rating": 7.09,
         "player": {
             "name": "Adam Wharton",
@@ -5441,11 +5135,8 @@
         }
     },
     {
-        "bigChancesCreated": 9,
-        "assists": 7,
-        "accuratePasses": 639,
-        "accuratePassesPercentage": 77.08,
-        "keyPasses": 51,
+        "minutesPlayed": 1757,
+        "appearances": 30,
         "rating": 7.09,
         "player": {
             "name": "Pablo Sarabia",
@@ -5496,11 +5187,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 402,
-        "accuratePassesPercentage": 88.55,
-        "keyPasses": 20,
+        "minutesPlayed": 1079,
+        "appearances": 23,
         "rating": 7.08,
         "player": {
             "name": "Noni Madueke",
@@ -5547,11 +5235,8 @@
         }
     },
     {
-        "bigChancesCreated": 10,
-        "assists": 5,
-        "accuratePasses": 967,
-        "accuratePassesPercentage": 79.26,
-        "keyPasses": 55,
+        "minutesPlayed": 2918,
+        "appearances": 37,
         "rating": 7.08,
         "player": {
             "name": "Ryan Christie",
@@ -5598,11 +5283,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 1,
-        "accuratePasses": 552,
-        "accuratePassesPercentage": 85.32,
-        "keyPasses": 36,
+        "minutesPlayed": 1863,
+        "appearances": 29,
         "rating": 7.08,
         "player": {
             "name": "Callum Hudson-Odoi",
@@ -5653,11 +5335,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 4,
-        "accuratePasses": 265,
-        "accuratePassesPercentage": 70.86,
-        "keyPasses": 16,
+        "minutesPlayed": 1510,
+        "appearances": 28,
         "rating": 7.08,
         "player": {
             "name": "Richarlison",
@@ -5708,11 +5387,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 1275,
-        "accuratePassesPercentage": 87.99,
-        "keyPasses": 8,
+        "minutesPlayed": 1584,
+        "appearances": 22,
         "rating": 7.07,
         "player": {
             "name": "Ibrahima Konaté",
@@ -5759,11 +5435,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 2162,
-        "accuratePassesPercentage": 94.87,
-        "keyPasses": 9,
+        "minutesPlayed": 2537,
+        "appearances": 31,
         "rating": 7.07,
         "player": {
             "name": "Thiago Silva",
@@ -5810,11 +5483,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 1098,
-        "accuratePassesPercentage": 80.09,
-        "keyPasses": 4,
+        "minutesPlayed": 3117,
+        "appearances": 35,
         "rating": 7.07,
         "player": {
             "name": "Jarrad Branthwaite",
@@ -5861,11 +5531,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 0,
-        "accuratePasses": 869,
-        "accuratePassesPercentage": 84.95,
-        "keyPasses": 18,
+        "minutesPlayed": 2090,
+        "appearances": 30,
         "rating": 7.06,
         "player": {
             "name": "Amadou Onana",
@@ -5912,11 +5579,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 477,
-        "accuratePassesPercentage": 78.71,
-        "keyPasses": 24,
+        "minutesPlayed": 1646,
+        "appearances": 34,
         "rating": 7.06,
         "player": {
             "name": "Leandro Trossard",
@@ -5963,11 +5627,8 @@
         }
     },
     {
-        "bigChancesCreated": 9,
-        "assists": 7,
-        "accuratePasses": 838,
-        "accuratePassesPercentage": 78.83,
-        "keyPasses": 85,
+        "minutesPlayed": 2637,
+        "appearances": 37,
         "rating": 7.06,
         "player": {
             "name": "Andreas Pereira",
@@ -6014,11 +5675,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 2,
-        "accuratePasses": 826,
-        "accuratePassesPercentage": 81.62,
-        "keyPasses": 53,
+        "minutesPlayed": 2342,
+        "appearances": 32,
         "rating": 7.06,
         "player": {
             "name": "Alex Iwobi",
@@ -6065,11 +5723,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 1009,
-        "accuratePassesPercentage": 82.37,
-        "keyPasses": 24,
+        "minutesPlayed": 2403,
+        "appearances": 28,
         "rating": 7.05,
         "player": {
             "name": "Jefferson Lerma",
@@ -6116,11 +5771,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 4,
-        "accuratePasses": 662,
-        "accuratePassesPercentage": 79.38,
-        "keyPasses": 46,
+        "minutesPlayed": 2593,
+        "appearances": 36,
         "rating": 7.05,
         "player": {
             "name": "Alejandro Garnacho",
@@ -6171,11 +5823,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 3,
-        "accuratePasses": 261,
-        "accuratePassesPercentage": 80.8,
-        "keyPasses": 15,
+        "minutesPlayed": 824,
+        "appearances": 13,
         "rating": 7.05,
         "player": {
             "name": "Timo Werner",
@@ -6226,11 +5875,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 367,
-        "accuratePassesPercentage": 87.17,
-        "keyPasses": 10,
+        "minutesPlayed": 921,
+        "appearances": 11,
         "rating": 7.05,
         "player": {
             "name": "Cheick Doucouré",
@@ -6277,11 +5923,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 1174,
-        "accuratePassesPercentage": 83.98,
-        "keyPasses": 4,
+        "minutesPlayed": 2529,
+        "appearances": 29,
         "rating": 7.04,
         "player": {
             "name": "Ethan Pinnock",
@@ -6328,11 +5971,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 753,
-        "accuratePassesPercentage": 85.57,
-        "keyPasses": 15,
+        "minutesPlayed": 1892,
+        "appearances": 25,
         "rating": 7.04,
         "player": {
             "name": "Idrissa Gueye",
@@ -6379,11 +6019,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 195,
-        "accuratePassesPercentage": 77.08,
-        "keyPasses": 8,
+        "minutesPlayed": 1110,
+        "appearances": 14,
         "rating": 7.04,
         "player": {
             "name": "Ben Brereton Díaz",
@@ -6432,11 +6069,8 @@
         }
     },
     {
-        "bigChancesCreated": 8,
-        "assists": 6,
-        "accuratePasses": 1087,
-        "accuratePassesPercentage": 89.24,
-        "keyPasses": 32,
+        "minutesPlayed": 1761,
+        "appearances": 27,
         "rating": 7.04,
         "player": {
             "name": "Malo Gusto",
@@ -6483,11 +6117,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 3,
-        "accuratePasses": 393,
-        "accuratePassesPercentage": 73.73,
-        "keyPasses": 39,
+        "minutesPlayed": 3331,
+        "appearances": 38,
         "rating": 7.04,
         "player": {
             "name": "Dominic Solanke",
@@ -6537,11 +6168,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 2628,
-        "accuratePassesPercentage": 92.57,
-        "keyPasses": 6,
+        "minutesPlayed": 3420,
+        "appearances": 38,
         "rating": 7.04,
         "player": {
             "name": "William Saliba",
@@ -6588,11 +6216,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 1,
-        "accuratePasses": 1170,
-        "accuratePassesPercentage": 81.19,
-        "keyPasses": 24,
+        "minutesPlayed": 2513,
+        "appearances": 31,
         "rating": 7.04,
         "player": {
             "name": "Christian Nørgaard",
@@ -6639,11 +6264,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 225,
-        "accuratePassesPercentage": 80.07,
-        "keyPasses": 20,
+        "minutesPlayed": 700,
+        "appearances": 20,
         "rating": 7.04,
         "player": {
             "name": "Luis Sinisterra",
@@ -6693,11 +6315,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 1248,
-        "accuratePassesPercentage": 86.73,
-        "keyPasses": 20,
+        "minutesPlayed": 2975,
+        "appearances": 35,
         "rating": 7.04,
         "player": {
             "name": "Mario Lemina",
@@ -6751,11 +6370,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 3,
-        "accuratePasses": 727,
-        "accuratePassesPercentage": 88.66,
-        "keyPasses": 26,
+        "minutesPlayed": 1244,
+        "appearances": 19,
         "rating": 7.04,
         "player": {
             "name": "Pervis Estupiñán",
@@ -6806,11 +6422,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1147,
-        "accuratePassesPercentage": 83.66,
-        "keyPasses": 0,
+        "minutesPlayed": 3420,
+        "appearances": 38,
         "rating": 7.04,
         "player": {
             "name": "Guglielmo Vicario",
@@ -6861,11 +6474,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 4,
-        "accuratePasses": 481,
-        "accuratePassesPercentage": 66.81,
-        "keyPasses": 22,
+        "minutesPlayed": 2867,
+        "appearances": 38,
         "rating": 7.03,
         "player": {
             "name": "Carlton Morris",
@@ -6916,11 +6526,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 117,
-        "accuratePassesPercentage": 60.31,
-        "keyPasses": 0,
+        "minutesPlayed": 721,
+        "appearances": 10,
         "rating": 7.03,
         "player": {
             "name": "Łukasz Fabiański",
@@ -6971,11 +6578,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 4,
-        "accuratePasses": 603,
-        "accuratePassesPercentage": 79.34,
-        "keyPasses": 45,
+        "minutesPlayed": 2129,
+        "appearances": 30,
         "rating": 7.03,
         "player": {
             "name": "Marcus Tavernier",
@@ -7025,11 +6629,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 1,
-        "accuratePasses": 606,
-        "accuratePassesPercentage": 81.12,
-        "keyPasses": 33,
+        "minutesPlayed": 2239,
+        "appearances": 31,
         "rating": 7.03,
         "player": {
             "name": "Simon Adingra",
@@ -7080,11 +6681,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 2,
-        "accuratePasses": 442,
-        "accuratePassesPercentage": 91.51,
-        "keyPasses": 18,
+        "minutesPlayed": 547,
+        "appearances": 22,
         "rating": 7.03,
         "player": {
             "name": "Giovani Lo Celso",
@@ -7135,11 +6733,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1686,
-        "accuratePassesPercentage": 91.93,
-        "keyPasses": 11,
+        "minutesPlayed": 2085,
+        "appearances": 28,
         "rating": 7.03,
         "player": {
             "name": "Yves Bissouma",
@@ -7190,11 +6785,8 @@
         }
     },
     {
-        "bigChancesCreated": 10,
-        "assists": 8,
-        "accuratePasses": 820,
-        "accuratePassesPercentage": 75.23,
-        "keyPasses": 71,
+        "minutesPlayed": 2937,
+        "appearances": 37,
         "rating": 7.03,
         "player": {
             "name": "Alfie Doughty",
@@ -7245,11 +6837,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 1,
-        "accuratePasses": 513,
-        "accuratePassesPercentage": 81.56,
-        "keyPasses": 27,
+        "minutesPlayed": 1993,
+        "appearances": 30,
         "rating": 7.03,
         "player": {
             "name": "Chiedozie Ogbene",
@@ -7300,11 +6889,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 5,
-        "accuratePasses": 305,
-        "accuratePassesPercentage": 73.85,
-        "keyPasses": 32,
+        "minutesPlayed": 2305,
+        "appearances": 35,
         "rating": 7.03,
         "player": {
             "name": "Jean-Philippe Mateta",
@@ -7351,11 +6937,8 @@
         }
     },
     {
-        "bigChancesCreated": 11,
-        "assists": 8,
-        "accuratePasses": 333,
-        "accuratePassesPercentage": 71.61,
-        "keyPasses": 33,
+        "minutesPlayed": 2053,
+        "appearances": 36,
         "rating": 7.03,
         "player": {
             "name": "Darwin Núñez",
@@ -7402,11 +6985,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1026,
-        "accuratePassesPercentage": 84.72,
-        "keyPasses": 2,
+        "minutesPlayed": 1627,
+        "appearances": 20,
         "rating": 7.02,
         "player": {
             "name": "Tosin Adarabioyo",
@@ -7456,11 +7036,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 1,
-        "accuratePasses": 471,
-        "accuratePassesPercentage": 77.09,
-        "keyPasses": 9,
+        "minutesPlayed": 1454,
+        "appearances": 20,
         "rating": 7.02,
         "player": {
             "name": "Willy Boly",
@@ -7511,11 +7088,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 49,
-        "accuratePassesPercentage": 80.33,
-        "keyPasses": 5,
+        "minutesPlayed": 98,
+        "appearances": 5,
         "rating": 7.02,
         "player": {
             "name": "Ivan Perišić",
@@ -7569,11 +7143,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 3,
-        "accuratePasses": 1713,
-        "accuratePassesPercentage": 79.49,
-        "keyPasses": 20,
+        "minutesPlayed": 3416,
+        "appearances": 38,
         "rating": 7.02,
         "player": {
             "name": "Joachim Andersen",
@@ -7623,11 +7194,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 848,
-        "accuratePassesPercentage": 85.06,
-        "keyPasses": 1,
+        "minutesPlayed": 2520,
+        "appearances": 28,
         "rating": 7.02,
         "player": {
             "name": "Alisson",
@@ -7674,11 +7242,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 741,
-        "accuratePassesPercentage": 91.26,
-        "keyPasses": 4,
+        "minutesPlayed": 1093,
+        "appearances": 17,
         "rating": 7.02,
         "player": {
             "name": "Ben Davies",
@@ -7732,11 +7297,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 0,
-        "accuratePasses": 1433,
-        "accuratePassesPercentage": 94.09,
-        "keyPasses": 21,
+        "minutesPlayed": 1581,
+        "appearances": 30,
         "rating": 7.02,
         "player": {
             "name": "Mateo Kovačić",
@@ -7787,11 +7349,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 561,
-        "accuratePassesPercentage": 90.34,
-        "keyPasses": 6,
+        "minutesPlayed": 788,
+        "appearances": 14,
         "rating": 7.02,
         "player": {
             "name": "Thomas Partey",
@@ -7838,11 +7397,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 1753,
-        "accuratePassesPercentage": 83.24,
-        "keyPasses": 10,
+        "minutesPlayed": 3054,
+        "appearances": 36,
         "rating": 7.01,
         "player": {
             "name": "Fabian Schär",
@@ -7893,11 +7449,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 494,
-        "accuratePassesPercentage": 87.74,
-        "keyPasses": 2,
+        "minutesPlayed": 783,
+        "appearances": 10,
         "rating": 7.01,
         "player": {
             "name": "Joël Matip",
@@ -7944,11 +7497,8 @@
         }
     },
     {
-        "bigChancesCreated": 8,
-        "assists": 5,
-        "accuratePasses": 513,
-        "accuratePassesPercentage": 77.96,
-        "keyPasses": 39,
+        "minutesPlayed": 2804,
+        "appearances": 35,
         "rating": 7.01,
         "player": {
             "name": "Nicolas Jackson",
@@ -7995,11 +7545,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1034,
-        "accuratePassesPercentage": 88.76,
-        "keyPasses": 3,
+        "minutesPlayed": 1189,
+        "appearances": 17,
         "rating": 7.01,
         "player": {
             "name": "Jarell Quansah",
@@ -8046,11 +7593,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 7,
-        "accuratePasses": 654,
-        "accuratePassesPercentage": 80.64,
-        "keyPasses": 25,
+        "minutesPlayed": 2555,
+        "appearances": 35,
         "rating": 7,
         "player": {
             "name": "Jordan Ayew",
@@ -8100,11 +7644,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 878,
-        "accuratePassesPercentage": 83.38,
-        "keyPasses": 7,
+        "minutesPlayed": 1798,
+        "appearances": 23,
         "rating": 7,
         "player": {
             "name": "Levi Colwill",
@@ -8151,11 +7692,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 3,
-        "accuratePasses": 308,
-        "accuratePassesPercentage": 85.56,
-        "keyPasses": 16,
+        "minutesPlayed": 701,
+        "appearances": 13,
         "rating": 7,
         "player": {
             "name": "Konstantinos Tsimikas",
@@ -8202,11 +7740,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 132,
-        "accuratePassesPercentage": 84.62,
-        "keyPasses": 6,
+        "minutesPlayed": 402,
+        "appearances": 5,
         "rating": 7,
         "player": {
             "name": "Rico Henry",
@@ -8253,11 +7788,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 0,
-        "accuratePassesPercentage": 0,
-        "keyPasses": 0,
+        "minutesPlayed": 12,
+        "appearances": 1,
         "rating": 7,
         "player": {
             "name": "Josh Acheampong",
@@ -8292,11 +7824,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 5,
-        "accuratePassesPercentage": 62.5,
-        "keyPasses": 0,
+        "minutesPlayed": 14,
+        "appearances": 1,
         "rating": 7,
         "player": {
             "name": "James Shea",
@@ -8347,11 +7876,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 67,
-        "accuratePassesPercentage": 90.54,
-        "keyPasses": 0,
+        "minutesPlayed": 76,
+        "appearances": 1,
         "rating": 7,
         "player": {
             "name": "Davinson Sánchez",
@@ -8405,11 +7931,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 11,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 11,
+        "appearances": 1,
         "rating": 7,
         "player": {
             "name": "Aymeric Laporte",
@@ -8460,11 +7983,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 942,
-        "accuratePassesPercentage": 85.87,
-        "keyPasses": 1,
+        "minutesPlayed": 2788,
+        "appearances": 33,
         "rating": 7,
         "player": {
             "name": "Ederson",
@@ -8515,11 +8035,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1681,
-        "accuratePassesPercentage": 94.28,
-        "keyPasses": 1,
+        "minutesPlayed": 2342,
+        "appearances": 27,
         "rating": 7,
         "player": {
             "name": "Micky van de Ven",
@@ -8570,11 +8087,8 @@
         }
     },
     {
-        "bigChancesCreated": 8,
-        "assists": 3,
-        "accuratePasses": 201,
-        "accuratePassesPercentage": 79.13,
-        "keyPasses": 13,
+        "minutesPlayed": 794,
+        "appearances": 21,
         "rating": 7,
         "player": {
             "name": "Harvey Barnes",
@@ -8625,11 +8139,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 2,
-        "accuratePasses": 916,
-        "accuratePassesPercentage": 86.66,
-        "keyPasses": 19,
+        "minutesPlayed": 1784,
+        "appearances": 21,
         "rating": 7,
         "player": {
             "name": "Marc Cucurella",
@@ -8676,11 +8187,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 1,
-        "accuratePasses": 517,
-        "accuratePassesPercentage": 83.93,
-        "keyPasses": 23,
+        "minutesPlayed": 1282,
+        "appearances": 20,
         "rating": 6.99,
         "player": {
             "name": "Joelinton",
@@ -8731,11 +8239,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 221,
-        "accuratePassesPercentage": 71.06,
-        "keyPasses": 0,
+        "minutesPlayed": 1346,
+        "appearances": 15,
         "rating": 6.99,
         "player": {
             "name": "Nick Pope",
@@ -8786,11 +8291,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 849,
-        "accuratePassesPercentage": 62.06,
-        "keyPasses": 0,
+        "minutesPlayed": 2520,
+        "appearances": 28,
         "rating": 6.99,
         "player": {
             "name": "James Trafford",
@@ -8837,11 +8339,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 2,
-        "accuratePasses": 129,
-        "accuratePassesPercentage": 77.25,
-        "keyPasses": 9,
+        "minutesPlayed": 482,
+        "appearances": 12,
         "rating": 6.99,
         "player": {
             "name": "Julio Enciso",
@@ -8895,11 +8394,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 5,
-        "accuratePasses": 988,
-        "accuratePassesPercentage": 78.47,
-        "keyPasses": 22,
+        "minutesPlayed": 2268,
+        "appearances": 31,
         "rating": 6.99,
         "player": {
             "name": "Marcos Senesi",
@@ -8946,11 +8442,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 3,
-        "accuratePasses": 1091,
-        "accuratePassesPercentage": 81.24,
-        "keyPasses": 47,
+        "minutesPlayed": 2792,
+        "appearances": 33,
         "rating": 6.99,
         "player": {
             "name": "Lewis Cook",
@@ -8997,11 +8490,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 0,
-        "accuratePasses": 485,
-        "accuratePassesPercentage": 90.99,
-        "keyPasses": 13,
+        "minutesPlayed": 806,
+        "appearances": 16,
         "rating": 6.99,
         "player": {
             "name": "Rico Lewis",
@@ -9052,11 +8542,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 496,
-        "accuratePassesPercentage": 52.6,
-        "keyPasses": 1,
+        "minutesPlayed": 2648,
+        "appearances": 30,
         "rating": 6.98,
         "player": {
             "name": "Wesley Foderingham",
@@ -9108,11 +8595,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 6,
-        "accuratePasses": 461,
-        "accuratePassesPercentage": 79.21,
-        "keyPasses": 23,
+        "minutesPlayed": 1622,
+        "appearances": 35,
         "rating": 6.98,
         "player": {
             "name": "Harry Wilson",
@@ -9159,11 +8643,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 301,
-        "accuratePassesPercentage": 63.64,
-        "keyPasses": 0,
+        "minutesPlayed": 1530,
+        "appearances": 17,
         "rating": 6.98,
         "player": {
             "name": "Matt Turner",
@@ -9217,11 +8698,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 6,
-        "accuratePasses": 1237,
-        "accuratePassesPercentage": 75.94,
-        "keyPasses": 34,
+        "minutesPlayed": 3270,
+        "appearances": 37,
         "rating": 6.98,
         "player": {
             "name": "Antonee Robinson",
@@ -9268,11 +8746,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 3,
-        "accuratePasses": 1165,
-        "accuratePassesPercentage": 88.73,
-        "keyPasses": 20,
+        "minutesPlayed": 2091,
+        "appearances": 34,
         "rating": 6.98,
         "player": {
             "name": "Pape Matar Sarr",
@@ -9323,11 +8798,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 0,
-        "accuratePasses": 1972,
-        "accuratePassesPercentage": 86.26,
-        "keyPasses": 17,
+        "minutesPlayed": 3420,
+        "appearances": 38,
         "rating": 6.98,
         "player": {
             "name": "Max Kilman",
@@ -9381,11 +8853,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 2,
-        "accuratePasses": 216,
-        "accuratePassesPercentage": 55.67,
-        "keyPasses": 12,
+        "minutesPlayed": 1449,
+        "appearances": 17,
         "rating": 6.97,
         "player": {
             "name": "Ivan Toney",
@@ -9435,11 +8904,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 4,
-        "accuratePasses": 1121,
-        "accuratePassesPercentage": 90.33,
-        "keyPasses": 26,
+        "minutesPlayed": 1500,
+        "appearances": 34,
         "rating": 6.97,
         "player": {
             "name": "Tom Cairney",
@@ -9486,11 +8952,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 914,
-        "accuratePassesPercentage": 89.26,
-        "keyPasses": 20,
+        "minutesPlayed": 1660,
+        "appearances": 20,
         "rating": 6.97,
         "player": {
             "name": "Boubacar Kamara",
@@ -9537,11 +9000,8 @@
         }
     },
     {
-        "bigChancesCreated": 9,
-        "assists": 3,
-        "accuratePasses": 764,
-        "accuratePassesPercentage": 78.6,
-        "keyPasses": 41,
+        "minutesPlayed": 2217,
+        "appearances": 32,
         "rating": 6.97,
         "player": {
             "name": "Mathias Jensen",
@@ -9591,11 +9051,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 0,
-        "accuratePasses": 661,
-        "accuratePassesPercentage": 74.94,
-        "keyPasses": 13,
+        "minutesPlayed": 2471,
+        "appearances": 28,
         "rating": 6.96,
         "player": {
             "name": "Vitaliy Mykolenko",
@@ -9642,11 +9099,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 3,
-        "accuratePasses": 240,
-        "accuratePassesPercentage": 60.3,
-        "keyPasses": 12,
+        "minutesPlayed": 1295,
+        "appearances": 21,
         "rating": 6.96,
         "player": {
             "name": "Oliver McBurnie",
@@ -9698,11 +9152,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 307,
-        "accuratePassesPercentage": 79.33,
-        "keyPasses": 1,
+        "minutesPlayed": 900,
+        "appearances": 10,
         "rating": 6.96,
         "player": {
             "name": "Caoimhin Kelleher",
@@ -9749,11 +9200,8 @@
         }
     },
     {
-        "bigChancesCreated": 13,
-        "assists": 8,
-        "accuratePasses": 470,
-        "accuratePassesPercentage": 82.6,
-        "keyPasses": 47,
+        "minutesPlayed": 2197,
+        "appearances": 38,
         "rating": 6.96,
         "player": {
             "name": "Moussa Diaby",
@@ -9803,11 +9251,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 3,
-        "accuratePasses": 412,
-        "accuratePassesPercentage": 77.74,
-        "keyPasses": 17,
+        "minutesPlayed": 2124,
+        "appearances": 29,
         "rating": 6.96,
         "player": {
             "name": "Hee-Chan Hwang",
@@ -9858,11 +9303,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 4,
-        "accuratePasses": 522,
-        "accuratePassesPercentage": 79.33,
-        "keyPasses": 30,
+        "minutesPlayed": 1981,
+        "appearances": 31,
         "rating": 6.96,
         "player": {
             "name": "Raheem Sterling",
@@ -9912,11 +9354,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 697,
-        "accuratePassesPercentage": 90.17,
-        "keyPasses": 10,
+        "minutesPlayed": 934,
+        "appearances": 24,
         "rating": 6.96,
         "player": {
             "name": "Jorginho",
@@ -9963,11 +9402,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 189,
-        "accuratePassesPercentage": 78.1,
-        "keyPasses": 0,
+        "minutesPlayed": 632,
+        "appearances": 9,
         "rating": 6.96,
         "player": {
             "name": "Stefan Ortega",
@@ -10018,11 +9454,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 2,
-        "accuratePasses": 1216,
-        "accuratePassesPercentage": 81.07,
-        "keyPasses": 10,
+        "minutesPlayed": 2732,
+        "appearances": 33,
         "rating": 6.95,
         "player": {
             "name": "Dan Burn",
@@ -10073,11 +9506,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 2,
-        "accuratePasses": 690,
-        "accuratePassesPercentage": 82.93,
-        "keyPasses": 12,
+        "minutesPlayed": 1788,
+        "appearances": 22,
         "rating": 6.95,
         "player": {
             "name": "Aaron Wan-Bissaka",
@@ -10131,11 +9561,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 3,
-        "accuratePasses": 467,
-        "accuratePassesPercentage": 85.85,
-        "keyPasses": 6,
+        "minutesPlayed": 971,
+        "appearances": 20,
         "rating": 6.95,
         "player": {
             "name": "Jakub Kiwior",
@@ -10182,11 +9609,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 1903,
-        "accuratePassesPercentage": 92.15,
-        "keyPasses": 22,
+        "minutesPlayed": 2125,
+        "appearances": 30,
         "rating": 6.95,
         "player": {
             "name": "Billy Gilmour",
@@ -10240,11 +9664,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 472,
-        "accuratePassesPercentage": 85.66,
-        "keyPasses": 13,
+        "minutesPlayed": 962,
+        "appearances": 12,
         "rating": 6.95,
         "player": {
             "name": "Luke Shaw",
@@ -10298,11 +9719,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 2,
-        "accuratePasses": 717,
-        "accuratePassesPercentage": 75.71,
-        "keyPasses": 20,
+        "minutesPlayed": 2881,
+        "appearances": 37,
         "rating": 6.95,
         "player": {
             "name": "Tomáš Souček",
@@ -10353,11 +9771,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 2,
-        "accuratePasses": 1374,
-        "accuratePassesPercentage": 88.82,
-        "keyPasses": 29,
+        "minutesPlayed": 3005,
+        "appearances": 37,
         "rating": 6.95,
         "player": {
             "name": "Sander Berge",
@@ -10407,11 +9822,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 2,
-        "accuratePasses": 825,
-        "accuratePassesPercentage": 80.25,
-        "keyPasses": 34,
+        "minutesPlayed": 2265,
+        "appearances": 33,
         "rating": 6.95,
         "player": {
             "name": "Josh Brownhill",
@@ -10461,11 +9873,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 3,
-        "accuratePasses": 1043,
-        "accuratePassesPercentage": 79.86,
-        "keyPasses": 37,
+        "minutesPlayed": 3069,
+        "appearances": 38,
         "rating": 6.95,
         "player": {
             "name": "Vitaly Janelt",
@@ -10512,11 +9921,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 1,
-        "accuratePasses": 658,
-        "accuratePassesPercentage": 85.79,
-        "keyPasses": 24,
+        "minutesPlayed": 1955,
+        "appearances": 33,
         "rating": 6.95,
         "player": {
             "name": "Miguel Almirón",
@@ -10567,11 +9973,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 147,
-        "accuratePassesPercentage": 88.02,
-        "keyPasses": 10,
+        "minutesPlayed": 388,
+        "appearances": 9,
         "rating": 6.94,
         "player": {
             "name": "Amad Diallo",
@@ -10625,11 +10028,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 1800,
-        "accuratePassesPercentage": 92.17,
-        "keyPasses": 8,
+        "minutesPlayed": 3073,
+        "appearances": 35,
         "rating": 6.94,
         "player": {
             "name": "Ezri Konsa",
@@ -10679,11 +10079,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 747,
-        "accuratePassesPercentage": 86.66,
-        "keyPasses": 15,
+        "minutesPlayed": 1939,
+        "appearances": 24,
         "rating": 6.94,
         "player": {
             "name": "Kobbie Mainoo",
@@ -10734,11 +10131,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 367,
-        "accuratePassesPercentage": 84.37,
-        "keyPasses": 8,
+        "minutesPlayed": 870,
+        "appearances": 12,
         "rating": 6.94,
         "player": {
             "name": "Jack Hinshelwood",
@@ -10789,11 +10183,8 @@
         }
     },
     {
-        "bigChancesCreated": 12,
-        "assists": 10,
-        "accuratePasses": 537,
-        "accuratePassesPercentage": 76.6,
-        "keyPasses": 46,
+        "minutesPlayed": 2330,
+        "appearances": 35,
         "rating": 6.94,
         "player": {
             "name": "Brennan Johnson",
@@ -10844,11 +10235,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 708,
-        "accuratePassesPercentage": 85.4,
-        "keyPasses": 10,
+        "minutesPlayed": 1518,
+        "appearances": 26,
         "rating": 6.94,
         "player": {
             "name": "Nicolás Domínguez",
@@ -10899,11 +10287,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 778,
-        "accuratePassesPercentage": 93.62,
-        "keyPasses": 6,
+        "minutesPlayed": 1064,
+        "appearances": 16,
         "rating": 6.94,
         "player": {
             "name": "John Stones",
@@ -10954,11 +10339,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 131,
-        "accuratePassesPercentage": 77.51,
-        "keyPasses": 3,
+        "minutesPlayed": 417,
+        "appearances": 5,
         "rating": 6.94,
         "player": {
             "name": "Scott McKenna",
@@ -11009,11 +10391,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 540,
-        "accuratePassesPercentage": 76.38,
-        "keyPasses": 0,
+        "minutesPlayed": 1994,
+        "appearances": 23,
         "rating": 6.94,
         "player": {
             "name": "Đorđe Petrović",
@@ -11063,11 +10442,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 6,
-        "accuratePasses": 780,
-        "accuratePassesPercentage": 86,
-        "keyPasses": 18,
+        "minutesPlayed": 1642,
+        "appearances": 32,
         "rating": 6.94,
         "player": {
             "name": "Youri Tielemans",
@@ -11114,11 +10490,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 278,
-        "accuratePassesPercentage": 64.5,
-        "keyPasses": 22,
+        "minutesPlayed": 1839,
+        "appearances": 31,
         "rating": 6.94,
         "player": {
             "name": "Chris Wood",
@@ -11169,11 +10542,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 524,
-        "accuratePassesPercentage": 81.49,
-        "keyPasses": 11,
+        "minutesPlayed": 1919,
+        "appearances": 32,
         "rating": 6.93,
         "player": {
             "name": "Scott McTominay",
@@ -11224,11 +10594,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 1189,
-        "accuratePassesPercentage": 82.91,
-        "keyPasses": 25,
+        "minutesPlayed": 3142,
+        "appearances": 36,
         "rating": 6.93,
         "player": {
             "name": "Emerson Palmieri",
@@ -11279,11 +10646,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 2,
-        "accuratePasses": 225,
-        "accuratePassesPercentage": 84.27,
-        "keyPasses": 13,
+        "minutesPlayed": 429,
+        "appearances": 10,
         "rating": 6.93,
         "player": {
             "name": "Reece James",
@@ -11333,11 +10697,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 299,
-        "accuratePassesPercentage": 71.53,
-        "keyPasses": 3,
+        "minutesPlayed": 1171,
+        "appearances": 14,
         "rating": 6.93,
         "player": {
             "name": "Tom Lockyer",
@@ -11388,11 +10749,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 3,
-        "accuratePasses": 895,
-        "accuratePassesPercentage": 74.21,
-        "keyPasses": 24,
+        "minutesPlayed": 3208,
+        "appearances": 37,
         "rating": 6.92,
         "player": {
             "name": "Tyrick Mitchell",
@@ -11439,11 +10797,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 119,
-        "accuratePassesPercentage": 88.81,
-        "keyPasses": 5,
+        "minutesPlayed": 292,
+        "appearances": 11,
         "rating": 6.92,
         "player": {
             "name": "Fábio Vieira",
@@ -11493,11 +10848,8 @@
         }
     },
     {
-        "bigChancesCreated": 10,
-        "assists": 6,
-        "accuratePasses": 722,
-        "accuratePassesPercentage": 73.52,
-        "keyPasses": 71,
+        "minutesPlayed": 2923,
+        "appearances": 36,
         "rating": 6.92,
         "player": {
             "name": "Gustavo Hamer",
@@ -11546,11 +10898,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 948,
-        "accuratePassesPercentage": 88.1,
-        "keyPasses": 0,
+        "minutesPlayed": 1426,
+        "appearances": 18,
         "rating": 6.92,
         "player": {
             "name": "Issa Diop",
@@ -11597,11 +10946,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 2,
-        "accuratePasses": 367,
-        "accuratePassesPercentage": 76.94,
-        "keyPasses": 32,
+        "minutesPlayed": 1586,
+        "appearances": 31,
         "rating": 6.92,
         "player": {
             "name": "Mykhaylo Mudryk",
@@ -11651,11 +10997,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 762,
-        "accuratePassesPercentage": 89.12,
-        "keyPasses": 3,
+        "minutesPlayed": 1238,
+        "appearances": 15,
         "rating": 6.91,
         "player": {
             "name": "Jordan Beyer",
@@ -11702,11 +11045,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 721,
-        "accuratePassesPercentage": 54.95,
-        "keyPasses": 1,
+        "minutesPlayed": 3406,
+        "appearances": 38,
         "rating": 6.91,
         "player": {
             "name": "Thomas Kaminski",
@@ -11757,11 +11097,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 3,
-        "accuratePasses": 127,
-        "accuratePassesPercentage": 73.84,
-        "keyPasses": 10,
+        "minutesPlayed": 1055,
+        "appearances": 20,
         "rating": 6.91,
         "player": {
             "name": "Taiwo Awoniyi",
@@ -11812,11 +11149,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 691,
-        "accuratePassesPercentage": 89.28,
-        "keyPasses": 1,
+        "minutesPlayed": 1377,
+        "appearances": 22,
         "rating": 6.91,
         "player": {
             "name": "Raphaël Varane",
@@ -11870,11 +11204,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 1,
-        "accuratePasses": 1196,
-        "accuratePassesPercentage": 81.47,
-        "keyPasses": 11,
+        "minutesPlayed": 2649,
+        "appearances": 32,
         "rating": 6.91,
         "player": {
             "name": "Nathan Collins",
@@ -11921,11 +11252,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 2,
-        "accuratePasses": 680,
-        "accuratePassesPercentage": 78.52,
-        "keyPasses": 34,
+        "minutesPlayed": 2637,
+        "appearances": 32,
         "rating": 6.91,
         "player": {
             "name": "Abdoulaye Doucouré",
@@ -11972,11 +11300,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 2,
-        "accuratePasses": 433,
-        "accuratePassesPercentage": 79.45,
-        "keyPasses": 31,
+        "minutesPlayed": 2118,
+        "appearances": 29,
         "rating": 6.9,
         "player": {
             "name": "Wilson Odobert",
@@ -12026,11 +11351,8 @@
         }
     },
     {
-        "bigChancesCreated": 14,
-        "assists": 9,
-        "accuratePasses": 485,
-        "accuratePassesPercentage": 75.31,
-        "keyPasses": 33,
+        "minutesPlayed": 2434,
+        "appearances": 36,
         "rating": 6.9,
         "player": {
             "name": "Anthony Elanga",
@@ -12081,11 +11403,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 2,
-        "accuratePasses": 247,
-        "accuratePassesPercentage": 56.91,
-        "keyPasses": 19,
+        "minutesPlayed": 2185,
+        "appearances": 32,
         "rating": 6.9,
         "player": {
             "name": "Dominic Calvert-Lewin",
@@ -12132,11 +11451,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 2,
-        "accuratePasses": 541,
-        "accuratePassesPercentage": 79.21,
-        "keyPasses": 26,
+        "minutesPlayed": 2291,
+        "appearances": 33,
         "rating": 6.9,
         "player": {
             "name": "Marcus Rashford",
@@ -12190,11 +11506,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 1029,
-        "accuratePassesPercentage": 86.11,
-        "keyPasses": 12,
+        "minutesPlayed": 2383,
+        "appearances": 31,
         "rating": 6.9,
         "player": {
             "name": "Edson Álvarez",
@@ -12245,11 +11558,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 681,
-        "accuratePassesPercentage": 89.61,
-        "keyPasses": 3,
+        "minutesPlayed": 950,
+        "appearances": 13,
         "rating": 6.9,
         "player": {
             "name": "Trevoh Chalobah",
@@ -12296,11 +11606,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 58,
-        "accuratePassesPercentage": 84.06,
-        "keyPasses": 1,
+        "minutesPlayed": 118,
+        "appearances": 3,
         "rating": 6.9,
         "player": {
             "name": "Tyler Adams",
@@ -12347,11 +11654,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 39,
-        "accuratePassesPercentage": 97.5,
-        "keyPasses": 0,
+        "minutesPlayed": 36,
+        "appearances": 3,
         "rating": 6.9,
         "player": {
             "name": "Mohamed Elneny",
@@ -12401,11 +11705,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 15,
-        "accuratePassesPercentage": 83.33,
-        "keyPasses": 1,
+        "minutesPlayed": 13,
+        "appearances": 1,
         "rating": 6.9,
         "player": {
             "name": "Ethan Nwaneri",
@@ -12455,11 +11756,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 899,
-        "accuratePassesPercentage": 86.61,
-        "keyPasses": 25,
+        "minutesPlayed": 2344,
+        "appearances": 33,
         "rating": 6.9,
         "player": {
             "name": "Rayan Aït Nouri",
@@ -12510,11 +11808,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 345,
-        "accuratePassesPercentage": 82.93,
-        "keyPasses": 15,
+        "minutesPlayed": 1022,
+        "appearances": 21,
         "rating": 6.89,
         "player": {
             "name": "Elliot Anderson",
@@ -12568,11 +11863,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 2,
-        "accuratePasses": 436,
-        "accuratePassesPercentage": 74.28,
-        "keyPasses": 29,
+        "minutesPlayed": 2119,
+        "appearances": 33,
         "rating": 6.89,
         "player": {
             "name": "Antoine Semenyo",
@@ -12619,11 +11911,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 991,
-        "accuratePassesPercentage": 86.25,
-        "keyPasses": 22,
+        "minutesPlayed": 1793,
+        "appearances": 32,
         "rating": 6.89,
         "player": {
             "name": "Joe Gomez",
@@ -12670,11 +11959,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 2,
-        "accuratePasses": 864,
-        "accuratePassesPercentage": 84.05,
-        "keyPasses": 13,
+        "minutesPlayed": 2142,
+        "appearances": 29,
         "rating": 6.89,
         "player": {
             "name": "Matty Cash",
@@ -12721,11 +12007,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 103,
-        "accuratePassesPercentage": 65.19,
-        "keyPasses": 8,
+        "minutesPlayed": 993,
+        "appearances": 20,
         "rating": 6.89,
         "player": {
             "name": "Callum Wilson",
@@ -12779,11 +12062,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 3,
-        "accuratePasses": 1062,
-        "accuratePassesPercentage": 87.48,
-        "keyPasses": 24,
+        "minutesPlayed": 2398,
+        "appearances": 28,
         "rating": 6.89,
         "player": {
             "name": "Destiny Udogie",
@@ -12834,11 +12114,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 1,
-        "accuratePasses": 449,
-        "accuratePassesPercentage": 80.04,
-        "keyPasses": 22,
+        "minutesPlayed": 1347,
+        "appearances": 29,
         "rating": 6.89,
         "player": {
             "name": "Antony",
@@ -12892,11 +12169,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 167,
-        "accuratePassesPercentage": 79.9,
-        "keyPasses": 9,
+        "minutesPlayed": 1082,
+        "appearances": 27,
         "rating": 6.89,
         "player": {
             "name": "Edward Nketiah",
@@ -12946,11 +12220,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 4,
-        "accuratePasses": 489,
-        "accuratePassesPercentage": 75.7,
-        "keyPasses": 28,
+        "minutesPlayed": 1551,
+        "appearances": 25,
         "rating": 6.89,
         "player": {
             "name": "Sergio Reguilón",
@@ -13000,11 +12271,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 432,
-        "accuratePassesPercentage": 86.4,
-        "keyPasses": 16,
+        "minutesPlayed": 778,
+        "appearances": 15,
         "rating": 6.89,
         "player": {
             "name": "James Milner",
@@ -13055,11 +12323,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 1,
-        "accuratePasses": 548,
-        "accuratePassesPercentage": 75.9,
-        "keyPasses": 12,
+        "minutesPlayed": 1861,
+        "appearances": 28,
         "rating": 6.89,
         "player": {
             "name": "Kristoffer Ajer",
@@ -13109,11 +12374,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 0,
-        "accuratePasses": 393,
-        "accuratePassesPercentage": 75.43,
-        "keyPasses": 7,
+        "minutesPlayed": 1091,
+        "appearances": 14,
         "rating": 6.88,
         "player": {
             "name": "Zanka",
@@ -13163,11 +12425,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 770,
-        "accuratePassesPercentage": 83.33,
-        "keyPasses": 6,
+        "minutesPlayed": 2097,
+        "appearances": 26,
         "rating": 6.88,
         "player": {
             "name": "Chris Richards",
@@ -13214,11 +12473,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 2,
-        "accuratePasses": 978,
-        "accuratePassesPercentage": 80.89,
-        "keyPasses": 20,
+        "minutesPlayed": 2753,
+        "appearances": 35,
         "rating": 6.88,
         "player": {
             "name": "Sean Longstaff",
@@ -13269,11 +12525,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 2,
-        "accuratePasses": 303,
-        "accuratePassesPercentage": 67.63,
-        "keyPasses": 17,
+        "minutesPlayed": 1234,
+        "appearances": 30,
         "rating": 6.88,
         "player": {
             "name": "Dango Ouattara",
@@ -13320,11 +12573,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 919,
-        "accuratePassesPercentage": 90.54,
-        "keyPasses": 5,
+        "minutesPlayed": 1385,
+        "appearances": 17,
         "rating": 6.88,
         "player": {
             "name": "Sven Botman",
@@ -13375,11 +12625,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 1030,
-        "accuratePassesPercentage": 83.27,
-        "keyPasses": 20,
+        "minutesPlayed": 2667,
+        "appearances": 34,
         "rating": 6.88,
         "player": {
             "name": "João Gomes",
@@ -13430,11 +12677,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 4,
-        "accuratePasses": 1381,
-        "accuratePassesPercentage": 79.73,
-        "keyPasses": 13,
+        "minutesPlayed": 2894,
+        "appearances": 33,
         "rating": 6.88,
         "player": {
             "name": "Dara O'Shea",
@@ -13484,11 +12728,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 991,
-        "accuratePassesPercentage": 91.25,
-        "keyPasses": 5,
+        "minutesPlayed": 1143,
+        "appearances": 15,
         "rating": 6.88,
         "player": {
             "name": "Adam Webster",
@@ -13539,11 +12780,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 520,
-        "accuratePassesPercentage": 85.53,
-        "keyPasses": 6,
+        "minutesPlayed": 1143,
+        "appearances": 22,
         "rating": 6.88,
         "player": {
             "name": "Takehiro Tomiyasu",
@@ -13593,11 +12831,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 3,
-        "accuratePasses": 439,
-        "accuratePassesPercentage": 83.78,
-        "keyPasses": 12,
+        "minutesPlayed": 1205,
+        "appearances": 17,
         "rating": 6.88,
         "player": {
             "name": "Lewis Miley",
@@ -13648,11 +12883,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 31,
-        "accuratePassesPercentage": 83.78,
-        "keyPasses": 2,
+        "minutesPlayed": 138,
+        "appearances": 5,
         "rating": 6.88,
         "player": {
             "name": "Hannibal Mejbri",
@@ -13706,11 +12938,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 158,
-        "accuratePassesPercentage": 89.27,
-        "keyPasses": 3,
+        "minutesPlayed": 438,
+        "appearances": 11,
         "rating": 6.87,
         "player": {
             "name": "Christopher Nkunku",
@@ -13757,11 +12986,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 3,
-        "accuratePasses": 1098,
-        "accuratePassesPercentage": 81.33,
-        "keyPasses": 18,
+        "minutesPlayed": 2633,
+        "appearances": 34,
         "rating": 6.87,
         "player": {
             "name": "Timothy Castagne",
@@ -13808,11 +13034,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 3,
-        "accuratePasses": 825,
-        "accuratePassesPercentage": 81.44,
-        "keyPasses": 38,
+        "minutesPlayed": 2417,
+        "appearances": 33,
         "rating": 6.87,
         "player": {
             "name": "Lucas Digne",
@@ -13859,11 +13082,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 1133,
-        "accuratePassesPercentage": 87.22,
-        "keyPasses": 8,
+        "minutesPlayed": 2022,
+        "appearances": 25,
         "rating": 6.87,
         "player": {
             "name": "Marc Guéhi",
@@ -13910,11 +13130,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 242,
-        "accuratePassesPercentage": 70.76,
-        "keyPasses": 3,
+        "minutesPlayed": 1129,
+        "appearances": 15,
         "rating": 6.87,
         "player": {
             "name": "Ben Godfrey",
@@ -13964,11 +13181,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 1327,
-        "accuratePassesPercentage": 93.65,
-        "keyPasses": 7,
+        "minutesPlayed": 1636,
+        "appearances": 24,
         "rating": 6.87,
         "player": {
             "name": "Igor Júlio",
@@ -14019,11 +13233,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 325,
-        "accuratePassesPercentage": 80.25,
-        "keyPasses": 14,
+        "minutesPlayed": 756,
+        "appearances": 13,
         "rating": 6.87,
         "player": {
             "name": "Ben Chilwell",
@@ -14073,11 +13284,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 784,
-        "accuratePassesPercentage": 89.5,
-        "keyPasses": 8,
+        "minutesPlayed": 1338,
+        "appearances": 19,
         "rating": 6.87,
         "player": {
             "name": "Victor Lindelöf",
@@ -14128,11 +13336,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 0,
-        "accuratePasses": 38,
-        "accuratePassesPercentage": 64.41,
-        "keyPasses": 4,
+        "minutesPlayed": 176,
+        "appearances": 11,
         "rating": 6.87,
         "player": {
             "name": "Saša Kalajdžić",
@@ -14183,11 +13388,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 2,
-        "accuratePasses": 634,
-        "accuratePassesPercentage": 84.08,
-        "keyPasses": 27,
+        "minutesPlayed": 1160,
+        "appearances": 22,
         "rating": 6.86,
         "player": {
             "name": "Christian Eriksen",
@@ -14238,11 +13440,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 2,
-        "accuratePasses": 301,
-        "accuratePassesPercentage": 76.98,
-        "keyPasses": 28,
+        "minutesPlayed": 2169,
+        "appearances": 30,
         "rating": 6.86,
         "player": {
             "name": "Rasmus Højlund",
@@ -14293,11 +13492,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 656,
-        "accuratePassesPercentage": 80.29,
-        "keyPasses": 7,
+        "minutesPlayed": 2000,
+        "appearances": 35,
         "rating": 6.86,
         "player": {
             "name": "Ryan Yates",
@@ -14348,11 +13544,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 726,
-        "accuratePassesPercentage": 87.89,
-        "keyPasses": 6,
+        "minutesPlayed": 1418,
+        "appearances": 23,
         "rating": 6.86,
         "player": {
             "name": "Jonny Evans",
@@ -14403,11 +13596,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 247,
-        "accuratePassesPercentage": 73.29,
-        "keyPasses": 18,
+        "minutesPlayed": 1583,
+        "appearances": 30,
         "rating": 6.85,
         "player": {
             "name": "Odsonne Édouard",
@@ -14454,11 +13644,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 81,
-        "accuratePassesPercentage": 71.05,
-        "keyPasses": 4,
+        "minutesPlayed": 505,
+        "appearances": 23,
         "rating": 6.85,
         "player": {
             "name": "Jhon Durán",
@@ -14508,11 +13695,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 584,
-        "accuratePassesPercentage": 80.55,
-        "keyPasses": 20,
+        "minutesPlayed": 1796,
+        "appearances": 29,
         "rating": 6.85,
         "player": {
             "name": "Danilo",
@@ -14563,11 +13747,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 3,
-        "accuratePasses": 364,
-        "accuratePassesPercentage": 78.28,
-        "keyPasses": 36,
+        "minutesPlayed": 1197,
+        "appearances": 26,
         "rating": 6.85,
         "player": {
             "name": "Jóhann Guðmundsson",
@@ -14617,11 +13798,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 85,
-        "accuratePassesPercentage": 73.91,
-        "keyPasses": 0,
+        "minutesPlayed": 399,
+        "appearances": 8,
         "rating": 6.85,
         "player": {
             "name": "Mads Juel Andersen",
@@ -14672,11 +13850,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 1120,
-        "accuratePassesPercentage": 77.56,
-        "keyPasses": 7,
+        "minutesPlayed": 2793,
+        "appearances": 32,
         "rating": 6.85,
         "player": {
             "name": "Murillo",
@@ -14727,11 +13902,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 349,
-        "accuratePassesPercentage": 81.54,
-        "keyPasses": 11,
+        "minutesPlayed": 946,
+        "appearances": 12,
         "rating": 6.85,
         "player": {
             "name": "Oliver Arblaster",
@@ -14768,11 +13940,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 641,
-        "accuratePassesPercentage": 70.75,
-        "keyPasses": 0,
+        "minutesPlayed": 2880,
+        "appearances": 32,
         "rating": 6.85,
         "player": {
             "name": "David Raya",
@@ -14819,11 +13988,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1992,
-        "accuratePassesPercentage": 90.63,
-        "keyPasses": 3,
+        "minutesPlayed": 2590,
+        "appearances": 31,
         "rating": 6.85,
         "player": {
             "name": "Axel Disasi",
@@ -14873,11 +14039,8 @@
         }
     },
     {
-        "bigChancesCreated": 7,
-        "assists": 2,
-        "accuratePasses": 393,
-        "accuratePassesPercentage": 78.44,
-        "keyPasses": 23,
+        "minutesPlayed": 1411,
+        "appearances": 29,
         "rating": 6.85,
         "player": {
             "name": "Philip Billing",
@@ -14927,11 +14090,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 0,
-        "accuratePasses": 260,
-        "accuratePassesPercentage": 69.71,
-        "keyPasses": 11,
+        "minutesPlayed": 1436,
+        "appearances": 24,
         "rating": 6.85,
         "player": {
             "name": "Raúl Jiménez",
@@ -14978,11 +14138,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 1554,
-        "accuratePassesPercentage": 87.8,
-        "keyPasses": 8,
+        "minutesPlayed": 2463,
+        "appearances": 29,
         "rating": 6.84,
         "player": {
             "name": "Pau Torres",
@@ -15029,11 +14186,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 231,
-        "accuratePassesPercentage": 53.72,
-        "keyPasses": 0,
+        "minutesPlayed": 1620,
+        "appearances": 18,
         "rating": 6.84,
         "player": {
             "name": "Dean Henderson",
@@ -15080,11 +14234,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 721,
-        "accuratePassesPercentage": 85.22,
-        "keyPasses": 21,
+        "minutesPlayed": 1904,
+        "appearances": 30,
         "rating": 6.84,
         "player": {
             "name": "Will Hughes",
@@ -15131,11 +14282,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 462,
-        "accuratePassesPercentage": 76.36,
-        "keyPasses": 6,
+        "minutesPlayed": 1276,
+        "appearances": 16,
         "rating": 6.84,
         "player": {
             "name": "Ben Mee",
@@ -15182,11 +14330,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 865,
-        "accuratePassesPercentage": 91.24,
-        "keyPasses": 3,
+        "minutesPlayed": 1192,
+        "appearances": 22,
         "rating": 6.84,
         "player": {
             "name": "Emerson Royal",
@@ -15240,11 +14385,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 235,
-        "accuratePassesPercentage": 88.01,
-        "keyPasses": 8,
+        "minutesPlayed": 439,
+        "appearances": 8,
         "rating": 6.84,
         "player": {
             "name": "Sandro Tonali",
@@ -15295,11 +14437,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 421,
-        "accuratePassesPercentage": 83.2,
-        "keyPasses": 22,
+        "minutesPlayed": 1703,
+        "appearances": 29,
         "rating": 6.83,
         "player": {
             "name": "Danny Welbeck",
@@ -15350,11 +14489,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 24,
-        "accuratePassesPercentage": 70.59,
-        "keyPasses": 0,
+        "minutesPlayed": 88,
+        "appearances": 5,
         "rating": 6.83,
         "player": {
             "name": "James Hill",
@@ -15401,11 +14537,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 2,
-        "accuratePasses": 349,
-        "accuratePassesPercentage": 78.96,
-        "keyPasses": 17,
+        "minutesPlayed": 1440,
+        "appearances": 33,
         "rating": 6.83,
         "player": {
             "name": "Bobby Decordova-Reid",
@@ -15455,11 +14588,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 4,
-        "accuratePasses": 531,
-        "accuratePassesPercentage": 77.52,
-        "keyPasses": 13,
+        "minutesPlayed": 1663,
+        "appearances": 22,
         "rating": 6.83,
         "player": {
             "name": "Reece Burke",
@@ -15510,11 +14640,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 145,
-        "accuratePassesPercentage": 77.13,
-        "keyPasses": 9,
+        "minutesPlayed": 640,
+        "appearances": 11,
         "rating": 6.82,
         "player": {
             "name": "Morgan Rogers",
@@ -15549,11 +14676,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 281,
-        "accuratePassesPercentage": 52.92,
-        "keyPasses": 0,
+        "minutesPlayed": 1797,
+        "appearances": 20,
         "rating": 6.82,
         "player": {
             "name": "Sam Johnstone",
@@ -15600,11 +14724,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 787,
-        "accuratePassesPercentage": 86.39,
-        "keyPasses": 8,
+        "minutesPlayed": 1246,
+        "appearances": 26,
         "rating": 6.82,
         "player": {
             "name": "Tommy Doyle",
@@ -15655,11 +14776,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 2,
-        "accuratePasses": 315,
-        "accuratePassesPercentage": 80.56,
-        "keyPasses": 4,
+        "minutesPlayed": 834,
+        "appearances": 12,
         "rating": 6.82,
         "player": {
             "name": "Serge Aurier",
@@ -15713,11 +14831,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 244,
-        "accuratePassesPercentage": 81.33,
-        "keyPasses": 6,
+        "minutesPlayed": 1388,
+        "appearances": 27,
         "rating": 6.81,
         "player": {
             "name": "Evan Ferguson",
@@ -15768,11 +14883,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 395,
-        "accuratePassesPercentage": 80.94,
-        "keyPasses": 16,
+        "minutesPlayed": 1999,
+        "appearances": 34,
         "rating": 6.81,
         "player": {
             "name": "Zeki Amdouni",
@@ -15822,11 +14934,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 351,
-        "accuratePassesPercentage": 76.81,
-        "keyPasses": 25,
+        "minutesPlayed": 1279,
+        "appearances": 32,
         "rating": 6.81,
         "player": {
             "name": "Jacob Bruun Larsen",
@@ -15876,11 +14985,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 667,
-        "accuratePassesPercentage": 86.74,
-        "keyPasses": 2,
+        "minutesPlayed": 1080,
+        "appearances": 16,
         "rating": 6.81,
         "player": {
             "name": "Jamaal Lascelles",
@@ -15931,11 +15037,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 688,
-        "accuratePassesPercentage": 84.94,
-        "keyPasses": 4,
+        "minutesPlayed": 1591,
+        "appearances": 27,
         "rating": 6.81,
         "player": {
             "name": "Joël Veltman",
@@ -15986,11 +15089,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 673,
-        "accuratePassesPercentage": 85.51,
-        "keyPasses": 8,
+        "minutesPlayed": 1019,
+        "appearances": 23,
         "rating": 6.81,
         "player": {
             "name": "Rodrigo Bentancur",
@@ -16044,11 +15144,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 586,
-        "accuratePassesPercentage": 86.81,
-        "keyPasses": 12,
+        "minutesPlayed": 1311,
+        "appearances": 26,
         "rating": 6.81,
         "player": {
             "name": "Valentino Livramento",
@@ -16099,11 +15196,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 3,
-        "accuratePasses": 388,
-        "accuratePassesPercentage": 72.66,
-        "keyPasses": 28,
+        "minutesPlayed": 2225,
+        "appearances": 29,
         "rating": 6.81,
         "player": {
             "name": "Jack Harrison",
@@ -16150,11 +15244,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 944,
-        "accuratePassesPercentage": 89.22,
-        "keyPasses": 0,
+        "minutesPlayed": 1504,
+        "appearances": 18,
         "rating": 6.81,
         "player": {
             "name": "Tim Ream",
@@ -16204,11 +15295,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 3,
-        "accuratePasses": 308,
-        "accuratePassesPercentage": 68.14,
-        "keyPasses": 19,
+        "minutesPlayed": 1920,
+        "appearances": 24,
         "rating": 6.8,
         "player": {
             "name": "Lyle Foster",
@@ -16255,11 +15343,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 432,
-        "accuratePassesPercentage": 72.36,
-        "keyPasses": 11,
+        "minutesPlayed": 1665,
+        "appearances": 26,
         "rating": 6.8,
         "player": {
             "name": "Neco Williams",
@@ -16310,11 +15395,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 579,
-        "accuratePassesPercentage": 82.48,
-        "keyPasses": 2,
+        "minutesPlayed": 1848,
+        "appearances": 21,
         "rating": 6.8,
         "player": {
             "name": "Gabriel Osho",
@@ -16368,11 +15450,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 1,
-        "accuratePasses": 350,
-        "accuratePassesPercentage": 81.02,
-        "keyPasses": 22,
+        "minutesPlayed": 1017,
+        "appearances": 23,
         "rating": 6.8,
         "player": {
             "name": "Alex Scott",
@@ -16419,11 +15498,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 411,
-        "accuratePassesPercentage": 83.37,
-        "keyPasses": 16,
+        "minutesPlayed": 1138,
+        "appearances": 26,
         "rating": 6.8,
         "player": {
             "name": "Ryan Gravenberch",
@@ -16470,11 +15546,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 481,
-        "accuratePassesPercentage": 76.71,
-        "keyPasses": 3,
+        "minutesPlayed": 1501,
+        "appearances": 19,
         "rating": 6.8,
         "player": {
             "name": "Konstantinos Mavropanos",
@@ -16525,11 +15598,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 340,
-        "accuratePassesPercentage": 80.57,
-        "keyPasses": 3,
+        "minutesPlayed": 891,
+        "appearances": 14,
         "rating": 6.8,
         "player": {
             "name": "Kenny Tete",
@@ -16579,11 +15649,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 726,
-        "accuratePassesPercentage": 78.23,
-        "keyPasses": 6,
+        "minutesPlayed": 2470,
+        "appearances": 30,
         "rating": 6.8,
         "player": {
             "name": "Teden Mengi",
@@ -16637,11 +15704,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 0,
-        "accuratePasses": 1153,
-        "accuratePassesPercentage": 88.35,
-        "keyPasses": 16,
+        "minutesPlayed": 1742,
+        "appearances": 29,
         "rating": 6.8,
         "player": {
             "name": "Wataru Endo",
@@ -16688,11 +15752,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 2,
-        "accuratePasses": 290,
-        "accuratePassesPercentage": 73.6,
-        "keyPasses": 11,
+        "minutesPlayed": 860,
+        "appearances": 23,
         "rating": 6.8,
         "player": {
             "name": "Mikkel Damsgaard",
@@ -16739,11 +15800,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 450,
-        "accuratePassesPercentage": 86.21,
-        "keyPasses": 12,
+        "minutesPlayed": 841,
+        "appearances": 19,
         "rating": 6.8,
         "player": {
             "name": "Matheus Nunes",
@@ -16794,11 +15852,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 1059,
-        "accuratePassesPercentage": 90.9,
-        "keyPasses": 6,
+        "minutesPlayed": 1337,
+        "appearances": 18,
         "rating": 6.8,
         "player": {
             "name": "Benoît Badiashile",
@@ -16845,11 +15900,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 449,
-        "accuratePassesPercentage": 84.24,
-        "keyPasses": 3,
+        "minutesPlayed": 1337,
+        "appearances": 19,
         "rating": 6.8,
         "player": {
             "name": "Nathaniel Clyne",
@@ -16896,11 +15948,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 20,
-        "accuratePassesPercentage": 83.33,
-        "keyPasses": 0,
+        "minutesPlayed": 31,
+        "appearances": 2,
         "rating": 6.8,
         "player": {
             "name": "Philippe Coutinho",
@@ -16950,11 +15999,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 0,
-        "accuratePasses": 1225,
-        "accuratePassesPercentage": 88.58,
-        "keyPasses": 9,
+        "minutesPlayed": 1343,
+        "appearances": 36,
         "rating": 6.8,
         "player": {
             "name": "Pierre-Emile Højbjerg",
@@ -17008,11 +16054,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 2,
-        "accuratePasses": 411,
-        "accuratePassesPercentage": 75.97,
-        "keyPasses": 16,
+        "minutesPlayed": 1732,
+        "appearances": 24,
         "rating": 6.8,
         "player": {
             "name": "Issa Kaboré",
@@ -17066,11 +16109,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 3,
-        "accuratePasses": 293,
-        "accuratePassesPercentage": 73.62,
-        "keyPasses": 17,
+        "minutesPlayed": 1453,
+        "appearances": 31,
         "rating": 6.79,
         "player": {
             "name": "Neal Maupay",
@@ -17117,11 +16157,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 187,
-        "accuratePassesPercentage": 88.63,
-        "keyPasses": 4,
+        "minutesPlayed": 363,
+        "appearances": 13,
         "rating": 6.79,
         "player": {
             "name": "Emile Smith Rowe",
@@ -17171,11 +16208,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 937,
-        "accuratePassesPercentage": 80.5,
-        "keyPasses": 4,
+        "minutesPlayed": 1859,
+        "appearances": 21,
         "rating": 6.79,
         "player": {
             "name": "Nayef Aguerd",
@@ -17229,11 +16263,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 0,
-        "accuratePasses": 447,
-        "accuratePassesPercentage": 79.26,
-        "keyPasses": 12,
+        "minutesPlayed": 1192,
+        "appearances": 30,
         "rating": 6.79,
         "player": {
             "name": "Matt Doherty",
@@ -17284,11 +16315,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 786,
-        "accuratePassesPercentage": 80.29,
-        "keyPasses": 4,
+        "minutesPlayed": 2679,
+        "appearances": 36,
         "rating": 6.79,
         "player": {
             "name": "Vinícius Souza",
@@ -17337,11 +16365,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 291,
-        "accuratePassesPercentage": 77.6,
-        "keyPasses": 12,
+        "minutesPlayed": 1176,
+        "appearances": 26,
         "rating": 6.79,
         "player": {
             "name": "Frank Onyeka",
@@ -17391,11 +16416,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 254,
-        "accuratePassesPercentage": 81.94,
-        "keyPasses": 11,
+        "minutesPlayed": 856,
+        "appearances": 16,
         "rating": 6.79,
         "player": {
             "name": "Jacob Ramsey",
@@ -17442,11 +16464,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 818,
-        "accuratePassesPercentage": 89.89,
-        "keyPasses": 2,
+        "minutesPlayed": 1155,
+        "appearances": 14,
         "rating": 6.79,
         "player": {
             "name": "Clément Lenglet",
@@ -17493,11 +16512,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 3,
-        "accuratePasses": 90,
-        "accuratePassesPercentage": 81.08,
-        "keyPasses": 7,
+        "minutesPlayed": 404,
+        "appearances": 17,
         "rating": 6.78,
         "player": {
             "name": "Adama Traoré",
@@ -17544,11 +16560,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 3,
-        "accuratePasses": 1418,
-        "accuratePassesPercentage": 82.78,
-        "keyPasses": 6,
+        "minutesPlayed": 2781,
+        "appearances": 35,
         "rating": 6.78,
         "player": {
             "name": "Toti Gomes",
@@ -17599,11 +16612,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 3,
-        "accuratePasses": 340,
-        "accuratePassesPercentage": 76.23,
-        "keyPasses": 18,
+        "minutesPlayed": 1485,
+        "appearances": 23,
         "rating": 6.77,
         "player": {
             "name": "Harry Toffolo",
@@ -17654,11 +16664,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 2,
-        "accuratePasses": 251,
-        "accuratePassesPercentage": 78.93,
-        "keyPasses": 9,
+        "minutesPlayed": 809,
+        "appearances": 14,
         "rating": 6.77,
         "player": {
             "name": "Gonzalo Montiel",
@@ -17709,11 +16716,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 389,
-        "accuratePassesPercentage": 83.12,
-        "keyPasses": 3,
+        "minutesPlayed": 799,
+        "appearances": 18,
         "rating": 6.77,
         "player": {
             "name": "Lewis Hall",
@@ -17764,11 +16768,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 16,
-        "accuratePassesPercentage": 94.12,
-        "keyPasses": 0,
+        "minutesPlayed": 33,
+        "appearances": 3,
         "rating": 6.77,
         "player": {
             "name": "George Earthy",
@@ -17810,11 +16811,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 116,
-        "accuratePassesPercentage": 69.05,
-        "keyPasses": 8,
+        "minutesPlayed": 901,
+        "appearances": 15,
         "rating": 6.76,
         "player": {
             "name": "David Datro Fofana",
@@ -17864,11 +16862,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 36,
-        "accuratePassesPercentage": 75,
-        "keyPasses": 4,
+        "minutesPlayed": 128,
+        "appearances": 7,
         "rating": 6.76,
         "player": {
             "name": "Maxwel Cornet",
@@ -17922,11 +16917,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 338,
-        "accuratePassesPercentage": 80.67,
-        "keyPasses": 7,
+        "minutesPlayed": 1043,
+        "appearances": 17,
         "rating": 6.76,
         "player": {
             "name": "Ibrahim Sangaré",
@@ -17977,11 +16969,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1470,
-        "accuratePassesPercentage": 81.58,
-        "keyPasses": 7,
+        "minutesPlayed": 3330,
+        "appearances": 37,
         "rating": 6.76,
         "player": {
             "name": "Illia Zabarnyi",
@@ -18028,11 +17017,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 115,
-        "accuratePassesPercentage": 89.15,
-        "keyPasses": 7,
+        "minutesPlayed": 230,
+        "appearances": 9,
         "rating": 6.76,
         "player": {
             "name": "Giovanni Reyna",
@@ -18083,11 +17069,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 339,
-        "accuratePassesPercentage": 83.29,
-        "keyPasses": 11,
+        "minutesPlayed": 1046,
+        "appearances": 21,
         "rating": 6.76,
         "player": {
             "name": "Álex Moreno",
@@ -18134,11 +17117,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 409,
-        "accuratePassesPercentage": 81.8,
-        "keyPasses": 11,
+        "minutesPlayed": 1993,
+        "appearances": 33,
         "rating": 6.75,
         "player": {
             "name": "Tahith Chong",
@@ -18189,11 +17169,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 173,
-        "accuratePassesPercentage": 85.22,
-        "keyPasses": 6,
+        "minutesPlayed": 541,
+        "appearances": 14,
         "rating": 6.75,
         "player": {
             "name": "Mason Mount",
@@ -18244,11 +17221,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 352,
-        "accuratePassesPercentage": 84.82,
-        "keyPasses": 7,
+        "minutesPlayed": 1134,
+        "appearances": 13,
         "rating": 6.75,
         "player": {
             "name": "Marvelous Nakamba",
@@ -18299,11 +17273,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 104,
-        "accuratePassesPercentage": 74.82,
-        "keyPasses": 9,
+        "minutesPlayed": 470,
+        "appearances": 24,
         "rating": 6.75,
         "player": {
             "name": "Cauley Woodrow",
@@ -18354,11 +17325,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 245,
-        "accuratePassesPercentage": 75.85,
-        "keyPasses": 19,
+        "minutesPlayed": 1376,
+        "appearances": 29,
         "rating": 6.75,
         "player": {
             "name": "Jeffrey Schlupp",
@@ -18408,11 +17376,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 506,
-        "accuratePassesPercentage": 79.94,
-        "keyPasses": 11,
+        "minutesPlayed": 1719,
+        "appearances": 22,
         "rating": 6.75,
         "player": {
             "name": "Ola Aina",
@@ -18463,11 +17428,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1437,
-        "accuratePassesPercentage": 86.2,
-        "keyPasses": 1,
+        "minutesPlayed": 2301,
+        "appearances": 29,
         "rating": 6.75,
         "player": {
             "name": "Calvin Bassey",
@@ -18514,11 +17476,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 37,
-        "accuratePassesPercentage": 78.72,
-        "keyPasses": 2,
+        "minutesPlayed": 140,
+        "appearances": 6,
         "rating": 6.75,
         "player": {
             "name": "Jesurun Rak-Sakyi",
@@ -18568,11 +17527,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 4,
-        "accuratePassesPercentage": 80,
-        "keyPasses": 0,
+        "minutesPlayed": 30,
+        "appearances": 2,
         "rating": 6.75,
         "player": {
             "name": "Michael Obafemi",
@@ -18622,11 +17578,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 959,
-        "accuratePassesPercentage": 83.9,
-        "keyPasses": 4,
+        "minutesPlayed": 2838,
+        "appearances": 33,
         "rating": 6.75,
         "player": {
             "name": "Kurt Zouma",
@@ -18680,11 +17633,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 7,
-        "accuratePasses": 897,
-        "accuratePassesPercentage": 72.99,
-        "keyPasses": 33,
+        "minutesPlayed": 3137,
+        "appearances": 36,
         "rating": 6.75,
         "player": {
             "name": "Vladimír Coufal",
@@ -18738,11 +17688,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 400,
-        "accuratePassesPercentage": 85.29,
-        "keyPasses": 18,
+        "minutesPlayed": 1377,
+        "appearances": 27,
         "rating": 6.74,
         "player": {
             "name": "Facundo Buonanotte",
@@ -18796,11 +17743,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 132,
-        "accuratePassesPercentage": 86.27,
-        "keyPasses": 7,
+        "minutesPlayed": 418,
+        "appearances": 9,
         "rating": 6.74,
         "player": {
             "name": "Joe Willock",
@@ -18851,11 +17795,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 60,
-        "accuratePassesPercentage": 81.08,
-        "keyPasses": 1,
+        "minutesPlayed": 182,
+        "appearances": 9,
         "rating": 6.74,
         "player": {
             "name": "Facundo Pellistri",
@@ -18906,11 +17847,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 129,
-        "accuratePassesPercentage": 56.33,
-        "keyPasses": 8,
+        "minutesPlayed": 1020,
+        "appearances": 19,
         "rating": 6.74,
         "player": {
             "name": "Jacob Brown",
@@ -18961,11 +17899,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 3,
-        "accuratePasses": 280,
-        "accuratePassesPercentage": 80.23,
-        "keyPasses": 18,
+        "minutesPlayed": 1228,
+        "appearances": 27,
         "rating": 6.74,
         "player": {
             "name": "Andros Townsend",
@@ -19016,11 +17951,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 616,
-        "accuratePassesPercentage": 85.32,
-        "keyPasses": 15,
+        "minutesPlayed": 1324,
+        "appearances": 27,
         "rating": 6.74,
         "player": {
             "name": "Harrison Reed",
@@ -19067,11 +17999,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 2,
-        "accuratePasses": 173,
-        "accuratePassesPercentage": 64.55,
-        "keyPasses": 8,
+        "minutesPlayed": 1710,
+        "appearances": 26,
         "rating": 6.74,
         "player": {
             "name": "Michail Antonio",
@@ -19125,11 +18054,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 0,
-        "accuratePasses": 433,
-        "accuratePassesPercentage": 85.07,
-        "keyPasses": 9,
+        "minutesPlayed": 926,
+        "appearances": 17,
         "rating": 6.74,
         "player": {
             "name": "Emil Krafth",
@@ -19180,11 +18106,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 63,
-        "accuratePassesPercentage": 73.26,
-        "keyPasses": 4,
+        "minutesPlayed": 241,
+        "appearances": 10,
         "rating": 6.73,
         "player": {
             "name": "Shandon Baptiste",
@@ -19234,11 +18157,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 124,
-        "accuratePassesPercentage": 45.76,
-        "keyPasses": 0,
+        "minutesPlayed": 772,
+        "appearances": 9,
         "rating": 6.73,
         "player": {
             "name": "Ivo Grbić",
@@ -19287,11 +18207,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 0,
-        "accuratePasses": 107,
-        "accuratePassesPercentage": 61.49,
-        "keyPasses": 11,
+        "minutesPlayed": 973,
+        "appearances": 30,
         "rating": 6.73,
         "player": {
             "name": "Beto",
@@ -19338,11 +18255,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 484,
-        "accuratePassesPercentage": 77.19,
-        "keyPasses": 12,
+        "minutesPlayed": 1983,
+        "appearances": 28,
         "rating": 6.73,
         "player": {
             "name": "Miloš Kerkez",
@@ -19389,11 +18303,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 109,
-        "accuratePassesPercentage": 79.56,
-        "keyPasses": 6,
+        "minutesPlayed": 461,
+        "appearances": 13,
         "rating": 6.73,
         "player": {
             "name": "Anthony Martial",
@@ -19447,11 +18358,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 190,
-        "accuratePassesPercentage": 79.83,
-        "keyPasses": 11,
+        "minutesPlayed": 616,
+        "appearances": 13,
         "rating": 6.73,
         "player": {
             "name": "Saïd Benrahma",
@@ -19505,11 +18413,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 599,
-        "accuratePassesPercentage": 77.59,
-        "keyPasses": 9,
+        "minutesPlayed": 1564,
+        "appearances": 23,
         "rating": 6.73,
         "player": {
             "name": "Lloyd Kelly",
@@ -19556,11 +18461,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 172,
-        "accuratePassesPercentage": 78.9,
-        "keyPasses": 2,
+        "minutesPlayed": 462,
+        "appearances": 8,
         "rating": 6.73,
         "player": {
             "name": "Nuno Tavares",
@@ -19614,11 +18516,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 588,
-        "accuratePassesPercentage": 85.47,
-        "keyPasses": 3,
+        "minutesPlayed": 1465,
+        "appearances": 21,
         "rating": 6.72,
         "player": {
             "name": "Moussa Niakhaté",
@@ -19672,11 +18571,8 @@
         }
     },
     {
-        "bigChancesCreated": 6,
-        "assists": 1,
-        "accuratePasses": 269,
-        "accuratePassesPercentage": 80.78,
-        "keyPasses": 24,
+        "minutesPlayed": 1871,
+        "appearances": 30,
         "rating": 6.72,
         "player": {
             "name": "Cameron Archer",
@@ -19728,11 +18624,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 686,
-        "accuratePassesPercentage": 91.47,
-        "keyPasses": 11,
+        "minutesPlayed": 1167,
+        "appearances": 23,
         "rating": 6.72,
         "player": {
             "name": "Curtis Jones",
@@ -19779,11 +18672,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 1,
-        "accuratePasses": 822,
-        "accuratePassesPercentage": 78.89,
-        "keyPasses": 15,
+        "minutesPlayed": 2332,
+        "appearances": 28,
         "rating": 6.72,
         "player": {
             "name": "Charlie Taylor",
@@ -19833,11 +18723,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 44,
-        "accuratePassesPercentage": 89.8,
-        "keyPasses": 1,
+        "minutesPlayed": 54,
+        "appearances": 6,
         "rating": 6.72,
         "player": {
             "name": "Sergio Gómez",
@@ -19891,11 +18778,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 684,
-        "accuratePassesPercentage": 84.44,
-        "keyPasses": 1,
+        "minutesPlayed": 1312,
+        "appearances": 16,
         "rating": 6.72,
         "player": {
             "name": "Maxime Estève",
@@ -19945,11 +18829,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 713,
-        "accuratePassesPercentage": 92.24,
-        "keyPasses": 8,
+        "minutesPlayed": 1362,
+        "appearances": 27,
         "rating": 6.72,
         "player": {
             "name": "Carlos Baleba",
@@ -20000,11 +18881,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 159,
-        "accuratePassesPercentage": 79.5,
-        "keyPasses": 5,
+        "minutesPlayed": 452,
+        "appearances": 15,
         "rating": 6.71,
         "player": {
             "name": "Pablo Fornals",
@@ -20058,11 +18936,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 178,
-        "accuratePassesPercentage": 87.25,
-        "keyPasses": 6,
+        "minutesPlayed": 524,
+        "appearances": 19,
         "rating": 6.71,
         "player": {
             "name": "Ansu Fati",
@@ -20113,11 +18988,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 143,
-        "accuratePassesPercentage": 72.59,
-        "keyPasses": 14,
+        "minutesPlayed": 1434,
+        "appearances": 27,
         "rating": 6.71,
         "player": {
             "name": "Elijah Adebayo",
@@ -20168,11 +19040,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 293,
-        "accuratePassesPercentage": 82.77,
-        "keyPasses": 3,
+        "minutesPlayed": 626,
+        "appearances": 10,
         "rating": 6.71,
         "player": {
             "name": "Chris Mepham",
@@ -20219,11 +19088,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 237,
-        "accuratePassesPercentage": 84.34,
-        "keyPasses": 12,
+        "minutesPlayed": 964,
+        "appearances": 22,
         "rating": 6.71,
         "player": {
             "name": "Jean-Ricner Bellegarde",
@@ -20274,11 +19140,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 428,
-        "accuratePassesPercentage": 87.53,
-        "keyPasses": 11,
+        "minutesPlayed": 1133,
+        "appearances": 24,
         "rating": 6.71,
         "player": {
             "name": "Saša Lukić",
@@ -20325,11 +19188,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 411,
-        "accuratePassesPercentage": 92.99,
-        "keyPasses": 3,
+        "minutesPlayed": 656,
+        "appearances": 11,
         "rating": 6.71,
         "player": {
             "name": "Lisandro Martínez",
@@ -20383,11 +19243,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 617,
-        "accuratePassesPercentage": 72.16,
-        "keyPasses": 17,
+        "minutesPlayed": 1481,
+        "appearances": 27,
         "rating": 6.71,
         "player": {
             "name": "Oliver Norwood",
@@ -20439,11 +19296,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 277,
-        "accuratePassesPercentage": 77.37,
-        "keyPasses": 13,
+        "minutesPlayed": 1441,
+        "appearances": 30,
         "rating": 6.71,
         "player": {
             "name": "Keane Lewis-Potter",
@@ -20490,11 +19344,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 569,
-        "accuratePassesPercentage": 88.63,
-        "keyPasses": 6,
+        "minutesPlayed": 1580,
+        "appearances": 20,
         "rating": 6.71,
         "player": {
             "name": "Orel Mangala",
@@ -20548,11 +19399,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 86,
-        "accuratePassesPercentage": 76.79,
-        "keyPasses": 8,
+        "minutesPlayed": 289,
+        "appearances": 13,
         "rating": 6.7,
         "player": {
             "name": "David Brooks",
@@ -20599,11 +19447,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 45,
-        "accuratePassesPercentage": 80.36,
-        "keyPasses": 0,
+        "minutesPlayed": 155,
+        "appearances": 8,
         "rating": 6.7,
         "player": {
             "name": "Leander Dendoncker",
@@ -20653,11 +19498,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 1227,
-        "accuratePassesPercentage": 80.94,
-        "keyPasses": 24,
+        "minutesPlayed": 3092,
+        "appearances": 36,
         "rating": 6.7,
         "player": {
             "name": "Nélson Semedo",
@@ -20708,11 +19550,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 60,
-        "accuratePassesPercentage": 89.55,
-        "keyPasses": 0,
+        "minutesPlayed": 71,
+        "appearances": 2,
         "rating": 6.7,
         "player": {
             "name": "Jurriën Timber",
@@ -20759,11 +19598,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 155,
-        "accuratePassesPercentage": 84.7,
-        "keyPasses": 3,
+        "minutesPlayed": 311,
+        "appearances": 12,
         "rating": 6.7,
         "player": {
             "name": "Lesley Ugochukwu",
@@ -20813,11 +19649,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 276,
-        "accuratePassesPercentage": 72.44,
-        "keyPasses": 21,
+        "minutesPlayed": 1942,
+        "appearances": 32,
         "rating": 6.7,
         "player": {
             "name": "Justin Kluivert",
@@ -20864,11 +19697,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 628,
-        "accuratePassesPercentage": 79.59,
-        "keyPasses": 8,
+        "minutesPlayed": 1722,
+        "appearances": 21,
         "rating": 6.7,
         "player": {
             "name": "Amari'i Bell",
@@ -20919,11 +19749,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 501,
-        "accuratePassesPercentage": 83.22,
-        "keyPasses": 0,
+        "minutesPlayed": 1530,
+        "appearances": 17,
         "rating": 6.69,
         "player": {
             "name": "Jason Steele",
@@ -20974,11 +19801,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 592,
-        "accuratePassesPercentage": 77.08,
-        "keyPasses": 17,
+        "minutesPlayed": 2175,
+        "appearances": 28,
         "rating": 6.69,
         "player": {
             "name": "Adam Smith",
@@ -21025,11 +19849,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 216,
-        "accuratePassesPercentage": 83.4,
-        "keyPasses": 4,
+        "minutesPlayed": 503,
+        "appearances": 12,
         "rating": 6.69,
         "player": {
             "name": "André Gomes",
@@ -21076,11 +19897,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 56,
-        "accuratePassesPercentage": 63.64,
-        "keyPasses": 4,
+        "minutesPlayed": 339,
+        "appearances": 11,
         "rating": 6.69,
         "player": {
             "name": "Kevin Schade",
@@ -21127,11 +19945,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 70,
-        "accuratePassesPercentage": 81.4,
-        "keyPasses": 0,
+        "minutesPlayed": 153,
+        "appearances": 13,
         "rating": 6.69,
         "player": {
             "name": "Matt Ritchie",
@@ -21185,11 +20000,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 281,
-        "accuratePassesPercentage": 76.36,
-        "keyPasses": 9,
+        "minutesPlayed": 792,
+        "appearances": 19,
         "rating": 6.69,
         "player": {
             "name": "Saman Ghoddos",
@@ -21236,11 +20048,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 325,
-        "accuratePassesPercentage": 88.08,
-        "keyPasses": 0,
+        "minutesPlayed": 449,
+        "appearances": 9,
         "rating": 6.69,
         "player": {
             "name": "Radu Drăguşin",
@@ -21291,11 +20100,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 822,
-        "accuratePassesPercentage": 77.26,
-        "keyPasses": 12,
+        "minutesPlayed": 2885,
+        "appearances": 34,
         "rating": 6.69,
         "player": {
             "name": "Jack Robinson",
@@ -21347,11 +20153,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 0,
-        "accuratePasses": 561,
-        "accuratePassesPercentage": 72.39,
-        "keyPasses": 21,
+        "minutesPlayed": 2299,
+        "appearances": 31,
         "rating": 6.68,
         "player": {
             "name": "Ashley Young",
@@ -21398,11 +20201,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 2,
-        "accuratePasses": 55,
-        "accuratePassesPercentage": 76.39,
-        "keyPasses": 5,
+        "minutesPlayed": 363,
+        "appearances": 16,
         "rating": 6.68,
         "player": {
             "name": "Enes Ünal",
@@ -21449,11 +20249,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 121,
-        "accuratePassesPercentage": 79.08,
-        "keyPasses": 1,
+        "minutesPlayed": 450,
+        "appearances": 5,
         "rating": 6.68,
         "player": {
             "name": "Odysseas Vlachodimos",
@@ -21507,11 +20304,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 449,
-        "accuratePassesPercentage": 89.98,
-        "keyPasses": 15,
+        "minutesPlayed": 860,
+        "appearances": 25,
         "rating": 6.68,
         "player": {
             "name": "Adam Lallana",
@@ -21565,11 +20359,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 283,
-        "accuratePassesPercentage": 87.08,
-        "keyPasses": 10,
+        "minutesPlayed": 454,
+        "appearances": 9,
         "rating": 6.68,
         "player": {
             "name": "Mahmoud Dahoud",
@@ -21623,11 +20414,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 608,
-        "accuratePassesPercentage": 75.72,
-        "keyPasses": 3,
+        "minutesPlayed": 1990,
+        "appearances": 26,
         "rating": 6.68,
         "player": {
             "name": "Joel Ward",
@@ -21674,11 +20462,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 148,
-        "accuratePassesPercentage": 67.27,
-        "keyPasses": 3,
+        "minutesPlayed": 670,
+        "appearances": 12,
         "rating": 6.68,
         "player": {
             "name": "Séamus Coleman",
@@ -21725,11 +20510,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 115,
-        "accuratePassesPercentage": 86.47,
-        "keyPasses": 4,
+        "minutesPlayed": 223,
+        "appearances": 9,
         "rating": 6.67,
         "player": {
             "name": "Carney Chukwuemeka",
@@ -21779,11 +20561,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 101,
-        "accuratePassesPercentage": 72.14,
-        "keyPasses": 6,
+        "minutesPlayed": 595,
+        "appearances": 14,
         "rating": 6.67,
         "player": {
             "name": "Arnaut Danjuma",
@@ -21830,11 +20609,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 46,
-        "accuratePassesPercentage": 75.41,
-        "keyPasses": 5,
+        "minutesPlayed": 320,
+        "appearances": 13,
         "rating": 6.67,
         "player": {
             "name": "Carlos Vinícius",
@@ -21881,11 +20657,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 212,
-        "accuratePassesPercentage": 65.23,
-        "keyPasses": 1,
+        "minutesPlayed": 1440,
+        "appearances": 16,
         "rating": 6.67,
         "player": {
             "name": "Matz Sels",
@@ -21939,11 +20712,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 76,
-        "accuratePassesPercentage": 72.38,
-        "keyPasses": 5,
+        "minutesPlayed": 452,
+        "appearances": 20,
         "rating": 6.67,
         "player": {
             "name": "Danny Ings",
@@ -21994,11 +20764,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 41,
-        "accuratePassesPercentage": 75.93,
-        "keyPasses": 4,
+        "minutesPlayed": 263,
+        "appearances": 12,
         "rating": 6.67,
         "player": {
             "name": "Lewis Dobbin",
@@ -22045,11 +20812,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 342,
-        "accuratePassesPercentage": 91.69,
-        "keyPasses": 8,
+        "minutesPlayed": 736,
+        "appearances": 21,
         "rating": 6.67,
         "player": {
             "name": "Oliver Skipp",
@@ -22103,11 +20867,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 171,
-        "accuratePassesPercentage": 79.91,
-        "keyPasses": 0,
+        "minutesPlayed": 633,
+        "appearances": 11,
         "rating": 6.67,
         "player": {
             "name": "Angelo Ogbonna",
@@ -22158,11 +20919,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 62,
-        "accuratePassesPercentage": 69.66,
-        "keyPasses": 2,
+        "minutesPlayed": 380,
+        "appearances": 17,
         "rating": 6.66,
         "player": {
             "name": "Luke Berry",
@@ -22216,11 +20974,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 121,
-        "accuratePassesPercentage": 95.28,
-        "keyPasses": 5,
+        "minutesPlayed": 276,
+        "appearances": 15,
         "rating": 6.66,
         "player": {
             "name": "Reiss Nelson",
@@ -22270,11 +21025,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 1,
-        "accuratePasses": 358,
-        "accuratePassesPercentage": 74.12,
-        "keyPasses": 12,
+        "minutesPlayed": 1315,
+        "appearances": 23,
         "rating": 6.66,
         "player": {
             "name": "Jordan Clark",
@@ -22328,11 +21080,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 2,
-        "accuratePasses": 298,
-        "accuratePassesPercentage": 73.04,
-        "keyPasses": 8,
+        "minutesPlayed": 1012,
+        "appearances": 20,
         "rating": 6.66,
         "player": {
             "name": "Nathan Patterson",
@@ -22379,11 +21128,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 28,
-        "accuratePassesPercentage": 70,
-        "keyPasses": 2,
+        "minutesPlayed": 131,
+        "appearances": 8,
         "rating": 6.66,
         "player": {
             "name": "Kieffer Moore",
@@ -22433,11 +21179,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 270,
-        "accuratePassesPercentage": 87.38,
-        "keyPasses": 2,
+        "minutesPlayed": 782,
+        "appearances": 11,
         "rating": 6.66,
         "player": {
             "name": "Andrew Omobamidele",
@@ -22491,11 +21234,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1184,
-        "accuratePassesPercentage": 88.42,
-        "keyPasses": 3,
+        "minutesPlayed": 1827,
+        "appearances": 27,
         "rating": 6.66,
         "player": {
             "name": "Diego Carlos",
@@ -22545,11 +21285,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 218,
-        "accuratePassesPercentage": 77.3,
-        "keyPasses": 3,
+        "minutesPlayed": 716,
+        "appearances": 27,
         "rating": 6.66,
         "player": {
             "name": "Yehor Yarmolyuk",
@@ -22596,11 +21333,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 105,
-        "accuratePassesPercentage": 85.37,
-        "keyPasses": 0,
+        "minutesPlayed": 223,
+        "appearances": 11,
         "rating": 6.66,
         "player": {
             "name": "Alfie Gilchrist",
@@ -22650,11 +21384,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 2,
-        "accuratePasses": 417,
-        "accuratePassesPercentage": 68.93,
-        "keyPasses": 15,
+        "minutesPlayed": 2009,
+        "appearances": 34,
         "rating": 6.66,
         "player": {
             "name": "Mads Roerslev",
@@ -22701,11 +21432,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 235,
-        "accuratePassesPercentage": 73.67,
-        "keyPasses": 7,
+        "minutesPlayed": 970,
+        "appearances": 13,
         "rating": 6.65,
         "player": {
             "name": "George Baldock",
@@ -22754,11 +21482,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 538,
-        "accuratePassesPercentage": 69.69,
-        "keyPasses": 10,
+        "minutesPlayed": 2792,
+        "appearances": 34,
         "rating": 6.65,
         "player": {
             "name": "Jayden Bogle",
@@ -22807,11 +21532,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 202,
-        "accuratePassesPercentage": 73.45,
-        "keyPasses": 2,
+        "minutesPlayed": 918,
+        "appearances": 12,
         "rating": 6.65,
         "player": {
             "name": "Luke Thomas",
@@ -22860,11 +21582,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 136,
-        "accuratePassesPercentage": 84.47,
-        "keyPasses": 2,
+        "minutesPlayed": 439,
+        "appearances": 7,
         "rating": 6.65,
         "player": {
             "name": "Joe Worrall",
@@ -22918,11 +21637,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 3,
-        "accuratePasses": 326,
-        "accuratePassesPercentage": 87.87,
-        "keyPasses": 10,
+        "minutesPlayed": 919,
+        "appearances": 19,
         "rating": 6.65,
         "player": {
             "name": "Tariq Lamptey",
@@ -22973,11 +21689,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 0,
-        "accuratePasses": 237,
-        "accuratePassesPercentage": 82.01,
-        "keyPasses": 5,
+        "minutesPlayed": 639,
+        "appearances": 17,
         "rating": 6.65,
         "player": {
             "name": "Jakub Moder",
@@ -23028,11 +21741,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 225,
-        "accuratePassesPercentage": 89.29,
-        "keyPasses": 1,
+        "minutesPlayed": 720,
+        "appearances": 9,
         "rating": 6.64,
         "player": {
             "name": "Aaron Hickey",
@@ -23079,11 +21789,8 @@
         }
     },
     {
-        "bigChancesCreated": 4,
-        "assists": 3,
-        "accuratePasses": 352,
-        "accuratePassesPercentage": 71.98,
-        "keyPasses": 28,
+        "minutesPlayed": 1843,
+        "appearances": 31,
         "rating": 6.64,
         "player": {
             "name": "James McAtee",
@@ -23132,11 +21839,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 2,
-        "accuratePasses": 266,
-        "accuratePassesPercentage": 75.57,
-        "keyPasses": 13,
+        "minutesPlayed": 1237,
+        "appearances": 15,
         "rating": 6.64,
         "player": {
             "name": "Lorenz Assignon",
@@ -23183,11 +21887,8 @@
         }
     },
     {
-        "bigChancesCreated": 5,
-        "assists": 1,
-        "accuratePasses": 89,
-        "accuratePassesPercentage": 67.94,
-        "keyPasses": 7,
+        "minutesPlayed": 607,
+        "appearances": 20,
         "rating": 6.64,
         "player": {
             "name": "Divock Origi",
@@ -23241,11 +21942,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 191,
-        "accuratePassesPercentage": 88.02,
-        "keyPasses": 1,
+        "minutesPlayed": 441,
+        "appearances": 8,
         "rating": 6.64,
         "player": {
             "name": "Hjalmar Ekdal",
@@ -23292,11 +21990,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 568,
-        "accuratePassesPercentage": 88.06,
-        "keyPasses": 6,
+        "minutesPlayed": 944,
+        "appearances": 21,
         "rating": 6.64,
         "player": {
             "name": "Sofyan Amrabat",
@@ -23350,11 +22045,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 53,
-        "accuratePassesPercentage": 81.54,
-        "keyPasses": 2,
+        "minutesPlayed": 102,
+        "appearances": 11,
         "rating": 6.63,
         "player": {
             "name": "Cesare Casadei",
@@ -23404,11 +22096,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 18,
-        "accuratePassesPercentage": 75,
-        "keyPasses": 1,
+        "minutesPlayed": 51,
+        "appearances": 3,
         "rating": 6.63,
         "player": {
             "name": "Hamed Junior Traorè",
@@ -23458,11 +22147,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 87,
-        "accuratePassesPercentage": 80.56,
-        "keyPasses": 0,
+        "minutesPlayed": 241,
+        "appearances": 9,
         "rating": 6.63,
         "player": {
             "name": "Jaïro Riedewald",
@@ -23512,11 +22198,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 54,
-        "accuratePassesPercentage": 91.53,
-        "keyPasses": 0,
+        "minutesPlayed": 59,
+        "appearances": 3,
         "rating": 6.63,
         "player": {
             "name": "Cédric Soares",
@@ -23566,11 +22249,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 103,
-        "accuratePassesPercentage": 65.19,
-        "keyPasses": 0,
+        "minutesPlayed": 540,
+        "appearances": 6,
         "rating": 6.63,
         "player": {
             "name": "Aaron Ramsdale",
@@ -23620,11 +22300,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 0,
-        "accuratePasses": 35,
-        "accuratePassesPercentage": 60.34,
-        "keyPasses": 4,
+        "minutesPlayed": 230,
+        "appearances": 18,
         "rating": 6.63,
         "player": {
             "name": "Youssef Chermiti",
@@ -23671,11 +22348,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 142,
-        "accuratePassesPercentage": 66.05,
-        "keyPasses": 4,
+        "minutesPlayed": 831,
+        "appearances": 21,
         "rating": 6.63,
         "player": {
             "name": "Jay Rodriguez",
@@ -23725,11 +22399,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 123,
-        "accuratePassesPercentage": 85.42,
-        "keyPasses": 4,
+        "minutesPlayed": 236,
+        "appearances": 11,
         "rating": 6.63,
         "player": {
             "name": "Bryan Gil",
@@ -23783,11 +22454,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 119,
-        "accuratePassesPercentage": 72.12,
-        "keyPasses": 2,
+        "minutesPlayed": 533,
+        "appearances": 11,
         "rating": 6.63,
         "player": {
             "name": "Yasser Larouci",
@@ -23839,11 +22507,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 30,
-        "accuratePassesPercentage": 90.91,
-        "keyPasses": 2,
+        "minutesPlayed": 87,
+        "appearances": 4,
         "rating": 6.63,
         "player": {
             "name": "Omari Forson",
@@ -23897,11 +22562,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 425,
-        "accuratePassesPercentage": 89.29,
-        "keyPasses": 2,
+        "minutesPlayed": 820,
+        "appearances": 12,
         "rating": 6.63,
         "player": {
             "name": "Santiago Bueno",
@@ -23952,11 +22614,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 161,
-        "accuratePassesPercentage": 86.1,
-        "keyPasses": 4,
+        "minutesPlayed": 308,
+        "appearances": 6,
         "rating": 6.63,
         "player": {
             "name": "Valentín Barco",
@@ -23998,11 +22657,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 93,
-        "accuratePassesPercentage": 76.23,
-        "keyPasses": 2,
+        "minutesPlayed": 318,
+        "appearances": 8,
         "rating": 6.63,
         "player": {
             "name": "Chris Basham",
@@ -24054,11 +22710,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 102,
-        "accuratePassesPercentage": 85.71,
-        "keyPasses": 4,
+        "minutesPlayed": 579,
+        "appearances": 21,
         "rating": 6.61,
         "player": {
             "name": "Armando Broja",
@@ -24108,11 +22761,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 33,
-        "accuratePassesPercentage": 78.57,
-        "keyPasses": 2,
+        "minutesPlayed": 210,
+        "appearances": 7,
         "rating": 6.61,
         "player": {
             "name": "Nathan Fraser",
@@ -24163,11 +22813,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 48,
-        "accuratePassesPercentage": 73.85,
-        "keyPasses": 6,
+        "minutesPlayed": 238,
+        "appearances": 10,
         "rating": 6.61,
         "player": {
             "name": "Matheus França",
@@ -24214,11 +22861,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 5,
-        "accuratePassesPercentage": 50,
-        "keyPasses": 0,
+        "minutesPlayed": 70,
+        "appearances": 8,
         "rating": 6.6,
         "player": {
             "name": "Alejo Véliz",
@@ -24272,11 +22916,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 6,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 8,
+        "appearances": 1,
         "rating": 6.6,
         "player": {
             "name": "Enso González",
@@ -24327,11 +22968,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 17,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 16,
+        "appearances": 2,
         "rating": 6.6,
         "player": {
             "name": "Alex Murphy",
@@ -24385,11 +23023,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 5,
-        "accuratePassesPercentage": 55.56,
-        "keyPasses": 0,
+        "minutesPlayed": 20,
+        "appearances": 3,
         "rating": 6.6,
         "player": {
             "name": "Han-Noah Massengo",
@@ -24439,11 +23074,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 94,
-        "accuratePassesPercentage": 73.44,
-        "keyPasses": 5,
+        "minutesPlayed": 519,
+        "appearances": 11,
         "rating": 6.6,
         "player": {
             "name": "Ryan Giles",
@@ -24497,11 +23129,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 44,
-        "accuratePassesPercentage": 93.62,
-        "keyPasses": 1,
+        "minutesPlayed": 133,
+        "appearances": 8,
         "rating": 6.6,
         "player": {
             "name": "Manuel Benson",
@@ -24551,11 +23180,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 5,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 1,
+        "minutesPlayed": 31,
+        "appearances": 1,
         "rating": 6.6,
         "player": {
             "name": "Tyrone Mings",
@@ -24602,11 +23228,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 22,
-        "accuratePassesPercentage": 81.48,
-        "keyPasses": 0,
+        "minutesPlayed": 32,
+        "appearances": 1,
         "rating": 6.6,
         "player": {
             "name": "Roméo Lavia",
@@ -24653,11 +23276,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 3,
-        "accuratePassesPercentage": 75,
-        "keyPasses": 0,
+        "minutesPlayed": 16,
+        "appearances": 1,
         "rating": 6.6,
         "player": {
             "name": "Owen Beck",
@@ -24707,11 +23327,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 0,
-        "accuratePassesPercentage": 0,
-        "keyPasses": 0,
+        "minutesPlayed": 11,
+        "appearances": 1,
         "rating": 6.6,
         "player": {
             "name": "Jonny Otto",
@@ -24765,11 +23382,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 34,
-        "accuratePassesPercentage": 82.93,
-        "keyPasses": 1,
+        "minutesPlayed": 76,
+        "appearances": 3,
         "rating": 6.6,
         "player": {
             "name": "Jadon Sancho",
@@ -24823,11 +23437,8 @@
         }
     },
     {
-        "bigChancesCreated": 3,
-        "assists": 0,
-        "accuratePasses": 668,
-        "accuratePassesPercentage": 78.96,
-        "keyPasses": 8,
+        "minutesPlayed": 2604,
+        "appearances": 32,
         "rating": 6.6,
         "player": {
             "name": "Auston Trusty",
@@ -24879,11 +23490,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 1,
-        "accuratePasses": 187,
-        "accuratePassesPercentage": 76.02,
-        "keyPasses": 11,
+        "minutesPlayed": 984,
+        "appearances": 15,
         "rating": 6.59,
         "player": {
             "name": "Luca Koleosho",
@@ -24930,11 +23538,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 47,
-        "accuratePassesPercentage": 64.38,
-        "keyPasses": 1,
+        "minutesPlayed": 238,
+        "appearances": 12,
         "rating": 6.59,
         "player": {
             "name": "Cheikhou Kouyaté",
@@ -24988,11 +23593,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 2,
-        "accuratePasses": 583,
-        "accuratePassesPercentage": 77.12,
-        "keyPasses": 11,
+        "minutesPlayed": 2323,
+        "appearances": 32,
         "rating": 6.59,
         "player": {
             "name": "Vitinho",
@@ -25039,11 +23641,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 113,
-        "accuratePassesPercentage": 77.4,
-        "keyPasses": 7,
+        "minutesPlayed": 436,
+        "appearances": 16,
         "rating": 6.59,
         "player": {
             "name": "Mike Trésor",
@@ -25090,11 +23689,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 182,
-        "accuratePassesPercentage": 85.45,
-        "keyPasses": 2,
+        "minutesPlayed": 373,
+        "appearances": 7,
         "rating": 6.59,
         "player": {
             "name": "Felipe",
@@ -25148,11 +23744,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 43,
-        "accuratePassesPercentage": 78.18,
-        "keyPasses": 0,
+        "minutesPlayed": 80,
+        "appearances": 6,
         "rating": 6.58,
         "player": {
             "name": "Fodé Ballo-Touré",
@@ -25202,11 +23795,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 2,
-        "accuratePasses": 393,
-        "accuratePassesPercentage": 77.67,
-        "keyPasses": 13,
+        "minutesPlayed": 1369,
+        "appearances": 24,
         "rating": 6.58,
         "player": {
             "name": "Ben Osborn",
@@ -25258,11 +23848,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 100,
-        "accuratePassesPercentage": 88.5,
-        "keyPasses": 1,
+        "minutesPlayed": 159,
+        "appearances": 5,
         "rating": 6.58,
         "player": {
             "name": "Calum Chambers",
@@ -25312,11 +23899,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 206,
-        "accuratePassesPercentage": 83.4,
-        "keyPasses": 5,
+        "minutesPlayed": 453,
+        "appearances": 11,
         "rating": 6.58,
         "player": {
             "name": "Aaron Cresswell",
@@ -25367,11 +23951,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 47,
-        "accuratePassesPercentage": 69.12,
-        "keyPasses": 4,
+        "minutesPlayed": 145,
+        "appearances": 12,
         "rating": 6.58,
         "player": {
             "name": "Nathan Redmond",
@@ -25418,11 +23999,8 @@
         }
     },
     {
-        "bigChancesCreated": 2,
-        "assists": 0,
-        "accuratePasses": 266,
-        "accuratePassesPercentage": 80.61,
-        "keyPasses": 6,
+        "minutesPlayed": 793,
+        "appearances": 22,
         "rating": 6.58,
         "player": {
             "name": "Hugo Bueno",
@@ -25476,11 +24054,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 55,
-        "accuratePassesPercentage": 82.09,
-        "keyPasses": 0,
+        "minutesPlayed": 146,
+        "appearances": 4,
         "rating": 6.58,
         "player": {
             "name": "Odeluga Offiah",
@@ -25534,11 +24109,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 171,
-        "accuratePassesPercentage": 77.73,
-        "keyPasses": 0,
+        "minutesPlayed": 438,
+        "appearances": 9,
         "rating": 6.57,
         "player": {
             "name": "Michael Keane",
@@ -25585,11 +24157,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 376,
-        "accuratePassesPercentage": 84.88,
-        "keyPasses": 6,
+        "minutesPlayed": 840,
+        "appearances": 24,
         "rating": 6.57,
         "player": {
             "name": "Boubacar Traoré",
@@ -25643,11 +24212,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 19,
-        "accuratePassesPercentage": 86.36,
-        "keyPasses": 0,
+        "minutesPlayed": 175,
+        "appearances": 3,
         "rating": 6.57,
         "player": {
             "name": "Leon Chiwome",
@@ -25689,11 +24255,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 722,
-        "accuratePassesPercentage": 75.6,
-        "keyPasses": 7,
+        "minutesPlayed": 2650,
+        "appearances": 31,
         "rating": 6.56,
         "player": {
             "name": "Anel Ahmedhodžić",
@@ -25745,11 +24308,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 5,
-        "accuratePassesPercentage": 71.43,
-        "keyPasses": 0,
+        "minutesPlayed": 26,
+        "appearances": 2,
         "rating": 6.55,
         "player": {
             "name": "Jayden Danns",
@@ -25787,11 +24347,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 11,
-        "accuratePassesPercentage": 91.67,
-        "keyPasses": 0,
+        "minutesPlayed": 21,
+        "appearances": 4,
         "rating": 6.55,
         "player": {
             "name": "Joe White",
@@ -25845,11 +24402,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 177,
-        "accuratePassesPercentage": 87.62,
-        "keyPasses": 4,
+        "minutesPlayed": 388,
+        "appearances": 11,
         "rating": 6.55,
         "player": {
             "name": "Joe Rothwell",
@@ -25899,11 +24453,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 13,
-        "accuratePassesPercentage": 68.42,
-        "keyPasses": 1,
+        "minutesPlayed": 65,
+        "appearances": 5,
         "rating": 6.55,
         "player": {
             "name": "Benicio Boaitey",
@@ -25957,11 +24508,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 44,
-        "accuratePassesPercentage": 83.02,
-        "keyPasses": 1,
+        "minutesPlayed": 165,
+        "appearances": 8,
         "rating": 6.54,
         "player": {
             "name": "Tawanda Chirewa",
@@ -26015,11 +24563,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 346,
-        "accuratePassesPercentage": 76.72,
-        "keyPasses": 7,
+        "minutesPlayed": 1249,
+        "appearances": 20,
         "rating": 6.54,
         "player": {
             "name": "Max Aarons",
@@ -26069,11 +24614,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 87,
-        "accuratePassesPercentage": 64.44,
-        "keyPasses": 0,
+        "minutesPlayed": 382,
+        "appearances": 5,
         "rating": 6.54,
         "player": {
             "name": "Daniel Bentley",
@@ -26127,11 +24669,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 512,
-        "accuratePassesPercentage": 85.62,
-        "keyPasses": 2,
+        "minutesPlayed": 1055,
+        "appearances": 13,
         "rating": 6.54,
         "player": {
             "name": "Ameen Al-Dakhil",
@@ -26181,11 +24720,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 13,
-        "accuratePassesPercentage": 81.25,
-        "keyPasses": 0,
+        "minutesPlayed": 69,
+        "appearances": 3,
         "rating": 6.53,
         "player": {
             "name": "Mark O'Mahony",
@@ -26239,11 +24775,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 7,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 33,
+        "appearances": 4,
         "rating": 6.53,
         "player": {
             "name": "Thilo Kehrer",
@@ -26297,11 +24830,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 1,
-        "accuratePasses": 70,
-        "accuratePassesPercentage": 65.42,
-        "keyPasses": 2,
+        "minutesPlayed": 508,
+        "appearances": 10,
         "rating": 6.53,
         "player": {
             "name": "Max Lowe",
@@ -26353,11 +24883,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 48,
-        "accuratePassesPercentage": 94.12,
-        "keyPasses": 0,
+        "minutesPlayed": 168,
+        "appearances": 9,
         "rating": 6.53,
         "player": {
             "name": "David Ozoh",
@@ -26407,11 +24934,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 191,
-        "accuratePassesPercentage": 77.02,
-        "keyPasses": 3,
+        "minutesPlayed": 948,
+        "appearances": 20,
         "rating": 6.53,
         "player": {
             "name": "Andre Brooks",
@@ -26463,11 +24987,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 26,
-        "accuratePassesPercentage": 81.25,
-        "keyPasses": 0,
+        "minutesPlayed": 100,
+        "appearances": 8,
         "rating": 6.53,
         "player": {
             "name": "Michael Olakigbe",
@@ -26517,11 +25038,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 29,
-        "accuratePassesPercentage": 72.5,
-        "keyPasses": 2,
+        "minutesPlayed": 89,
+        "appearances": 4,
         "rating": 6.53,
         "player": {
             "name": "John Fleck",
@@ -26573,11 +25091,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 149,
-        "accuratePassesPercentage": 71.63,
-        "keyPasses": 10,
+        "minutesPlayed": 845,
+        "appearances": 25,
         "rating": 6.52,
         "player": {
             "name": "Nicolò Zaniolo",
@@ -26627,11 +25142,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 276,
-        "accuratePassesPercentage": 86.79,
-        "keyPasses": 4,
+        "minutesPlayed": 602,
+        "appearances": 12,
         "rating": 6.52,
         "player": {
             "name": "Hannes Delcroix",
@@ -26681,11 +25193,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 116,
-        "accuratePassesPercentage": 79.45,
-        "keyPasses": 1,
+        "minutesPlayed": 524,
+        "appearances": 14,
         "rating": 6.52,
         "player": {
             "name": "Aaron Ramsey",
@@ -26735,11 +25244,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 48,
-        "accuratePassesPercentage": 53.33,
-        "keyPasses": 1,
+        "minutesPlayed": 803,
+        "appearances": 21,
         "rating": 6.51,
         "player": {
             "name": "William Osula",
@@ -26791,11 +25297,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 7,
-        "accuratePassesPercentage": 70,
-        "keyPasses": 0,
+        "minutesPlayed": 26,
+        "appearances": 1,
         "rating": 6.5,
         "player": {
             "name": "Stefan Bajčetić",
@@ -26845,11 +25348,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1,
-        "accuratePassesPercentage": 33.33,
-        "keyPasses": 0,
+        "minutesPlayed": 20,
+        "appearances": 1,
         "rating": 6.5,
         "player": {
             "name": "Daniel Jebbison",
@@ -26901,11 +25401,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1,
-        "accuratePassesPercentage": 33.33,
-        "keyPasses": 0,
+        "minutesPlayed": 24,
+        "appearances": 1,
         "rating": 6.5,
         "player": {
             "name": "Ben Parkinson",
@@ -26959,11 +25456,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 8,
+        "appearances": 1,
         "rating": 6.5,
         "player": {
             "name": "Finley Munroe",
@@ -27001,11 +25495,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 4,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 12,
+        "appearances": 2,
         "rating": 6.5,
         "player": {
             "name": "Zack Nelson",
@@ -27056,11 +25547,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 0,
-        "accuratePassesPercentage": 0,
-        "keyPasses": 0,
+        "minutesPlayed": 28,
+        "appearances": 3,
         "rating": 6.5,
         "player": {
             "name": "Ethan Wheatley",
@@ -27102,11 +25590,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 6,
-        "accuratePassesPercentage": 75,
-        "keyPasses": 0,
+        "minutesPlayed": 28,
+        "appearances": 4,
         "rating": 6.5,
         "player": {
             "name": "Rodrigo Ribeiro",
@@ -27160,11 +25645,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 257,
-        "accuratePassesPercentage": 74.93,
-        "keyPasses": 6,
+        "minutesPlayed": 1119,
+        "appearances": 27,
         "rating": 6.5,
         "player": {
             "name": "Pelly Ruddock Mpanzu",
@@ -27215,11 +25697,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 19,
-        "accuratePassesPercentage": 82.61,
-        "keyPasses": 0,
+        "minutesPlayed": 61,
+        "appearances": 5,
         "rating": 6.5,
         "player": {
             "name": "Romain Faivre",
@@ -27269,11 +25748,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 16,
-        "accuratePassesPercentage": 72.73,
-        "keyPasses": 0,
+        "minutesPlayed": 90,
+        "appearances": 5,
         "rating": 6.5,
         "player": {
             "name": "Divin Mubama",
@@ -27327,11 +25803,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 6,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 12,
+        "appearances": 1,
         "rating": 6.5,
         "player": {
             "name": "Andrey Santos",
@@ -27385,11 +25858,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 4,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 13,
+        "appearances": 1,
         "rating": 6.5,
         "player": {
             "name": "Ben Doak",
@@ -27439,11 +25909,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 9,
+        "appearances": 1,
         "rating": 6.5,
         "player": {
             "name": "Sydie Peck",
@@ -27492,11 +25959,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 3,
-        "accuratePassesPercentage": 75,
-        "keyPasses": 0,
+        "minutesPlayed": 16,
+        "appearances": 2,
         "rating": 6.5,
         "player": {
             "name": "Mason Burstow",
@@ -27546,11 +26010,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 5,
-        "accuratePassesPercentage": 83.33,
-        "keyPasses": 0,
+        "minutesPlayed": 11,
+        "appearances": 3,
         "rating": 6.5,
         "player": {
             "name": "James McConnell",
@@ -27600,11 +26061,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 9,
-        "accuratePassesPercentage": 69.23,
-        "keyPasses": 1,
+        "minutesPlayed": 33,
+        "appearances": 3,
         "rating": 6.5,
         "player": {
             "name": "Joshua Dasilva",
@@ -27651,11 +26109,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 25,
-        "accuratePassesPercentage": 78.13,
-        "keyPasses": 0,
+        "minutesPlayed": 41,
+        "appearances": 4,
         "rating": 6.5,
         "player": {
             "name": "Jack Cork",
@@ -27705,11 +26160,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 148,
-        "accuratePassesPercentage": 82.68,
-        "keyPasses": 1,
+        "minutesPlayed": 376,
+        "appearances": 20,
         "rating": 6.5,
         "player": {
             "name": "Naouirou Ahamada",
@@ -27759,11 +26211,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 52,
-        "accuratePassesPercentage": 71.23,
-        "keyPasses": 2,
+        "minutesPlayed": 353,
+        "appearances": 13,
         "rating": 6.49,
         "player": {
             "name": "Rhian Brewster",
@@ -27812,11 +26261,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 1,
-        "accuratePasses": 345,
-        "accuratePassesPercentage": 84.35,
-        "keyPasses": 7,
+        "minutesPlayed": 819,
+        "appearances": 14,
         "rating": 6.48,
         "player": {
             "name": "Connor Roberts",
@@ -27866,11 +26312,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 125,
-        "accuratePassesPercentage": 88.65,
-        "keyPasses": 0,
+        "minutesPlayed": 199,
+        "appearances": 4,
         "rating": 6.48,
         "player": {
             "name": "Eric Dier",
@@ -27924,11 +26367,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 215,
-        "accuratePassesPercentage": 82.06,
-        "keyPasses": 0,
+        "minutesPlayed": 550,
+        "appearances": 14,
         "rating": 6.47,
         "player": {
             "name": "Ben Johnson",
@@ -27982,11 +26422,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 40,
-        "accuratePassesPercentage": 67.8,
-        "keyPasses": 2,
+        "minutesPlayed": 160,
+        "appearances": 6,
         "rating": 6.47,
         "player": {
             "name": "Anass Zaroury",
@@ -28036,11 +26473,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 51,
-        "accuratePassesPercentage": 92.73,
-        "keyPasses": 0,
+        "minutesPlayed": 178,
+        "appearances": 9,
         "rating": 6.46,
         "player": {
             "name": "Tim Iroegbunam",
@@ -28090,11 +26524,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 2,
-        "accuratePassesPercentage": 66.67,
-        "keyPasses": 0,
+        "minutesPlayed": 42,
+        "appearances": 4,
         "rating": 6.45,
         "player": {
             "name": "Dane Scarlett",
@@ -28145,11 +26576,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 19,
+        "appearances": 2,
         "rating": 6.45,
         "player": {
             "name": "Deivid Washington",
@@ -28199,11 +26627,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 5,
-        "accuratePassesPercentage": 71.43,
-        "keyPasses": 1,
+        "minutesPlayed": 24,
+        "appearances": 3,
         "rating": 6.45,
         "player": {
             "name": "Myles Peart-Harris",
@@ -28253,11 +26678,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 18,
-        "accuratePassesPercentage": 85.71,
-        "keyPasses": 0,
+        "minutesPlayed": 32,
+        "appearances": 4,
         "rating": 6.43,
         "player": {
             "name": "James Tomkins",
@@ -28307,11 +26729,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 211,
-        "accuratePassesPercentage": 82.42,
-        "keyPasses": 3,
+        "minutesPlayed": 595,
+        "appearances": 10,
         "rating": 6.43,
         "player": {
             "name": "Daiki Hashioka",
@@ -28362,11 +26781,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 86,
-        "accuratePassesPercentage": 72.27,
-        "keyPasses": 2,
+        "minutesPlayed": 222,
+        "appearances": 12,
         "rating": 6.43,
         "player": {
             "name": "Ian Maatsen",
@@ -28416,11 +26832,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 201,
-        "accuratePassesPercentage": 82.72,
-        "keyPasses": 0,
+        "minutesPlayed": 403,
+        "appearances": 12,
         "rating": 6.43,
         "player": {
             "name": "Kalvin Phillips",
@@ -28474,11 +26887,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 38,
-        "accuratePassesPercentage": 77.55,
-        "keyPasses": 0,
+        "minutesPlayed": 103,
+        "appearances": 5,
         "rating": 6.43,
         "player": {
             "name": "Bobby Clark",
@@ -28528,11 +26938,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 162,
-        "accuratePassesPercentage": 84.82,
-        "keyPasses": 0,
+        "minutesPlayed": 336,
+        "appearances": 8,
         "rating": 6.41,
         "player": {
             "name": "Willy Kambwala",
@@ -28586,11 +26993,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 16,
-        "accuratePassesPercentage": 51.61,
-        "keyPasses": 0,
+        "minutesPlayed": 90,
+        "appearances": 1,
         "rating": 6.4,
         "player": {
             "name": "Loris Karius",
@@ -28644,11 +27048,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 4,
-        "accuratePassesPercentage": 57.14,
-        "keyPasses": 0,
+        "minutesPlayed": 27,
+        "appearances": 1,
         "rating": 6.4,
         "player": {
             "name": "Sam Curtis",
@@ -28688,11 +27089,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 4,
-        "accuratePassesPercentage": 80,
-        "keyPasses": 0,
+        "minutesPlayed": 20,
+        "appearances": 2,
         "rating": 6.4,
         "player": {
             "name": "Mikey Moore",
@@ -28731,11 +27129,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 0,
-        "accuratePassesPercentage": 0,
-        "keyPasses": 0,
+        "minutesPlayed": 10,
+        "appearances": 3,
         "rating": 6.4,
         "player": {
             "name": "Kaine Kesler-Hayden",
@@ -28773,11 +27168,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 92,
-        "accuratePassesPercentage": 67.65,
-        "keyPasses": 3,
+        "minutesPlayed": 434,
+        "appearances": 15,
         "rating": 6.4,
         "player": {
             "name": "Anis Ben Slimane",
@@ -28829,11 +27221,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 6,
-        "accuratePassesPercentage": 85.71,
-        "keyPasses": 0,
+        "minutesPlayed": 35,
+        "appearances": 2,
         "rating": 6.4,
         "player": {
             "name": "Omari Kellyman",
@@ -28883,11 +27272,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 7,
-        "accuratePassesPercentage": 70,
-        "keyPasses": 0,
+        "minutesPlayed": 13,
+        "appearances": 1,
         "rating": 6.4,
         "player": {
             "name": "Thiago Alcântara",
@@ -28937,11 +27323,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 3,
-        "accuratePassesPercentage": 75,
-        "keyPasses": 0,
+        "minutesPlayed": 10,
+        "appearances": 1,
         "rating": 6.4,
         "player": {
             "name": "Jaden Philogene-Bidace",
@@ -28991,11 +27374,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 2,
-        "accuratePassesPercentage": 66.67,
-        "keyPasses": 0,
+        "minutesPlayed": 10,
+        "appearances": 2,
         "rating": 6.4,
         "player": {
             "name": "Bertrand Traoré",
@@ -29045,11 +27425,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 2,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 17,
+        "appearances": 2,
         "rating": 6.4,
         "player": {
             "name": "Antwoine Hackford",
@@ -29101,11 +27478,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 60,
-        "accuratePassesPercentage": 80,
-        "keyPasses": 4,
+        "minutesPlayed": 282,
+        "appearances": 8,
         "rating": 6.39,
         "player": {
             "name": "Fábio Silva",
@@ -29159,11 +27533,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 128,
-        "accuratePassesPercentage": 69.95,
-        "keyPasses": 0,
+        "minutesPlayed": 484,
+        "appearances": 6,
         "rating": 6.38,
         "player": {
             "name": "John Egan",
@@ -29215,11 +27586,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 30,
-        "accuratePassesPercentage": 69.77,
-        "keyPasses": 0,
+        "minutesPlayed": 153,
+        "appearances": 3,
         "rating": 6.37,
         "player": {
             "name": "Jaidon Anthony",
@@ -29269,11 +27637,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 54,
-        "accuratePassesPercentage": 80.6,
-        "keyPasses": 4,
+        "minutesPlayed": 392,
+        "appearances": 8,
         "rating": 6.36,
         "player": {
             "name": "Benie Traore",
@@ -29325,11 +27690,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 65,
-        "accuratePassesPercentage": 76.47,
-        "keyPasses": 2,
+        "minutesPlayed": 414,
+        "appearances": 8,
         "rating": 6.35,
         "player": {
             "name": "Fred Onyedinma",
@@ -29379,11 +27741,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 67,
-        "accuratePassesPercentage": 72.83,
-        "keyPasses": 1,
+        "minutesPlayed": 214,
+        "appearances": 9,
         "rating": 6.34,
         "player": {
             "name": "Tom Davies",
@@ -29435,11 +27794,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 4,
-        "accuratePassesPercentage": 50,
-        "keyPasses": 0,
+        "minutesPlayed": 15,
+        "appearances": 1,
         "rating": 6.3,
         "player": {
             "name": "Brandon Aguilera",
@@ -29493,11 +27849,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 18,
+        "appearances": 1,
         "rating": 6.3,
         "player": {
             "name": "Ryan One",
@@ -29549,11 +27902,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 33,
-        "accuratePassesPercentage": 86.84,
-        "keyPasses": 1,
+        "minutesPlayed": 85,
+        "appearances": 3,
         "rating": 6.2,
         "player": {
             "name": "Matt Targett",
@@ -29604,11 +27954,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 39,
-        "accuratePassesPercentage": 72.22,
-        "keyPasses": 1,
+        "minutesPlayed": 111,
+        "appearances": 5,
         "rating": 6.17,
         "player": {
             "name": "Rhys Norrington-Davies",
@@ -29660,11 +28007,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 0,
-        "accuratePassesPercentage": 0,
-        "keyPasses": 0,
+        "minutesPlayed": 16,
+        "appearances": 1,
         "rating": 6.1,
         "player": {
             "name": "Remi Matthews",
@@ -29711,11 +28055,8 @@
         }
     },
     {
-        "bigChancesCreated": 1,
-        "assists": 0,
-        "accuratePasses": 118,
-        "accuratePassesPercentage": 71.52,
-        "keyPasses": 1,
+        "minutesPlayed": 713,
+        "appearances": 10,
         "rating": 6.09,
         "player": {
             "name": "Mason Holgate",
@@ -29767,11 +28108,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 46,
-        "accuratePassesPercentage": 79.31,
-        "keyPasses": 0,
+        "minutesPlayed": 180,
+        "appearances": 2,
         "rating": 6.05,
         "player": {
             "name": "Ionuț Radu",
@@ -29821,11 +28159,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 20,
-        "accuratePassesPercentage": 90.91,
-        "keyPasses": 0,
+        "minutesPlayed": 23,
+        "appearances": 5,
         "rating": 5.9,
         "player": {
             "name": "Paul Dummett",
@@ -29876,11 +28211,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 30,
-        "accuratePassesPercentage": 88.24,
-        "keyPasses": 0,
+        "minutesPlayed": 75,
+        "appearances": 2,
         "rating": 5.8,
         "player": {
             "name": "Joseph Johnson",
@@ -29934,11 +28266,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 11,
-        "accuratePassesPercentage": 78.57,
-        "keyPasses": 0,
+        "minutesPlayed": 74,
+        "appearances": 1,
         "rating": 5.8,
         "player": {
             "name": "Luke Harris",
@@ -29988,11 +28317,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 0,
-        "accuratePassesPercentage": 0,
-        "keyPasses": 0,
+        "minutesPlayed": 1,
+        "appearances": 1,
         "rating": 0,
         "player": {
             "name": "Jimi Tauriainen",
@@ -30030,11 +28356,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 0,
-        "accuratePassesPercentage": 0,
-        "keyPasses": 0,
+        "minutesPlayed": 1,
+        "appearances": 1,
         "rating": 0,
         "player": {
             "name": "Kaelan Casey",
@@ -30088,11 +28411,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 0,
-        "accuratePassesPercentage": 0,
-        "keyPasses": 0,
+        "minutesPlayed": 1,
+        "appearances": 1,
         "rating": 0,
         "player": {
             "name": "Dominic Sadi",
@@ -30142,11 +28462,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 2,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 1,
+        "appearances": 1,
         "rating": 0,
         "player": {
             "name": "Lewis Warrington",
@@ -30196,11 +28513,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 3,
+        "appearances": 3,
         "rating": 0,
         "player": {
             "name": "Jamie Donley",
@@ -30254,11 +28568,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 1,
+        "minutesPlayed": 2,
+        "appearances": 1,
         "rating": 0,
         "player": {
             "name": "Donny van de Beek",
@@ -30312,11 +28623,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 0,
-        "accuratePassesPercentage": 0,
-        "keyPasses": 0,
+        "minutesPlayed": 1,
+        "appearances": 1,
         "rating": 0,
         "player": {
             "name": "Daniel Gore",
@@ -30370,11 +28678,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 1,
+        "appearances": 1,
         "rating": 0,
         "player": {
             "name": "Kaide Gordon",
@@ -30424,11 +28729,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 0,
-        "accuratePassesPercentage": 0,
-        "keyPasses": 0,
+        "minutesPlayed": 1,
+        "appearances": 1,
         "rating": 0,
         "player": {
             "name": "Alex Matos",
@@ -30478,11 +28780,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 0,
-        "accuratePassesPercentage": 0,
-        "keyPasses": 0,
+        "minutesPlayed": 1,
+        "appearances": 1,
         "rating": 0,
         "player": {
             "name": "Thomas Cannon",
@@ -30532,11 +28831,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 0,
-        "accuratePassesPercentage": 0,
-        "keyPasses": 0,
+        "minutesPlayed": 1,
+        "appearances": 1,
         "rating": 0,
         "player": {
             "name": "Tyler Onyango",
@@ -30586,11 +28882,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1,
-        "accuratePassesPercentage": 100,
-        "keyPasses": 0,
+        "minutesPlayed": 1,
+        "appearances": 1,
         "rating": 0,
         "player": {
             "name": "Amadou Diallo",
@@ -30644,11 +28937,8 @@
         }
     },
     {
-        "bigChancesCreated": 0,
-        "assists": 0,
-        "accuratePasses": 1,
-        "accuratePassesPercentage": 50,
-        "keyPasses": 0,
+        "minutesPlayed": 1,
+        "appearances": 1,
         "rating": 0,
         "player": {
             "name": "Michael Ndiweni",
